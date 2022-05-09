@@ -3,7 +3,7 @@ baseURL = "http://www.stephonp.com/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "My New Hugo Site"
+title = "Stephon Parker"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
