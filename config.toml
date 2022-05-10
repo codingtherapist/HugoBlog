@@ -30,7 +30,7 @@ copyright = ""
 enableRobotsTXT = true
 
 # whether to use git commit log
-enableGitInfo = true
+enableGitInfo = false
 
 # whether to use emoji code
 enableEmoji = true
@@ -417,21 +417,21 @@ enableEmoji = true
     [params.page.share]
       enable = true
       Twitter = true
-      Facebook = true
+      Facebook = false
       Linkedin = false
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false
       Reddit = false
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Blogger = false
       Baidu = false
       Odnoklassniki = false

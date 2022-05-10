@@ -20,4 +20,8 @@
 # Go workspace file
 go.work
 
+# Ignore .DS_Store
 .DS_Store
+
+# Ignore Build folders
+public
