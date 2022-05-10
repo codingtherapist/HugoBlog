@@ -440,7 +440,6 @@ enableEmoji = true
       Trello = false
       Mix = false
     # Comment config
-    # 评论系统设置
     [params.page.comment]
       enable = true
       # Disqus comment config (https://disqus.com/)
@@ -458,8 +457,8 @@ enableEmoji = true
       # Valine comment config (https://github.com/xCss/Valine)
       [params.page.comment.valine]
         enable = true
-        appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
-        appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
+        appId = "OyE53CvSiK9XyUzkIOsc6KJu-MdYXbMMI"
+        appKey = "MFOCdXNM64kkEI2FC63vn4Ag"
         placeholder = ""
         avatar = "mp"
         meta= ""
@@ -475,7 +474,6 @@ enableEmoji = true
         # located in "themes/LoveIt/assets/data/emoji/" directory
         # you can store your own data files in the same path under your project:
         # "assets/data/emoji/"
-        # emoji 数据文件名称, 默认是 "google.yml"
         # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
         # "assets/data/emoji/"
         emoji = ""
