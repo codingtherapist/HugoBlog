@@ -1,8 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Documentation - Category - Stephon Parker</title>
-        <link>https://stephonp.com/categories/documentation/</link>
-        <description>Documentation - Category - Stephon Parker</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>sgparker62gmail.com (Stephon Parker)</managingEditor>
-            <webMaster>sgparker62gmail.com (Stephon Parker)</webMaster><atom:link href="https://stephonp.com/categories/documentation/" rel="self" type="application/rss+xml" /></channel>
-</rss>
