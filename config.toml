@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://stephonp.com"
 
 # determines default content language [en, zh-cn, fr, pl, ...]
 defaultContentLanguage = "en"
@@ -135,6 +135,11 @@ enableEmoji = true
           id = "@xxxx"
           prefix = "https://mastodon.technology/"
 
+[frontmatter]
+  date = ['date', 'publishDate', 'lastmod']
+  expiryDate = ['expiryDate']
+  lastmod = [':git', 'lastmod', 'date', 'publishDate']
+  publishDate = ['publishDate', 'date']
       
 [params]
   # site default theme ("auto", "light", "dark")
