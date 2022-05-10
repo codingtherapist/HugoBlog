@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>blog - Tag - Stephon Parker</title>
+        <link>https://stephonp.com/tags/blog/</link>
+        <description>blog - Tag - Stephon Parker</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>sgparker62gmail.com (Stephon Parker)</managingEditor>
+            <webMaster>sgparker62gmail.com (Stephon Parker)</webMaster><lastBuildDate>Mon, 09 May 2022 11:29:41 &#43;0800</lastBuildDate><atom:link href="https://stephonp.com/tags/blog/" rel="self" type="application/rss+xml" /><item>
+    <title>We&#39;re Live</title>
+    <link>https://stephonp.com/were_live/</link>
+    <pubDate>Mon, 09 May 2022 11:29:41 &#43;0800</pubDate>
+    <author>Stephon Parker</author>
+    <guid>https://stephonp.com/were_live/</guid>
+    <description><![CDATA[Hello There! I&rsquo;m super excited to launch my brand new website on a new domain and build on the Hugo framework. I&rsquo;ve been focusing on video content lately, which you can check out on my YouTube channel (shameless plug). Keep an eye out for more exciting and amazing content coming your way.]]></description>
+</item>
+</channel>
+</rss>
