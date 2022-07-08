@@ -1,4 +1,4 @@
-baseURL = "https://stephonp.com"
+baseURL = "https://africamincey.com"
 
 # determines default content language [en, zh-cn, fr, pl, ...]
 defaultContentLanguage = "en"
@@ -38,8 +38,8 @@ enableEmoji = true
 # Author config
 # 作者配置
 [author]
-  name = "Stephon Parker"
-  email = "sgparker62gmail.com"
+  name = "Africa Mincey"
+  email = "africamincey@gmail.com"
   link = ""
 
 # Menu config
@@ -61,22 +61,22 @@ enableEmoji = true
     title = ""
     weight = 2
   [[menu.main]]
-    identifier = "posts"
+    identifier = "blog"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Posts"
-    url = "/posts/"
+    name = "Blog"
+    url = "/blog/"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 3
   [[menu.main]]
-    identifier = "podcast"
+    identifier = "Portfolio"
     pre = ""
     post = ""
-    name = "Podcast"
-    url = "https://anchor.fm/sparkyarcster"
+    name = "Porfolio"
+    url = ""
     title = ""
     weight = 4
   [[menu.main]]
@@ -94,7 +94,7 @@ enableEmoji = true
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/stephondoestech"
+        url = "https://github.com/codingtherapist"
         title = "GitHub"
     [languages.en.params]
       [languages.en.params.search]
@@ -115,21 +115,21 @@ enableEmoji = true
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "../assets/images/avatar.jpg"
-          title = ""
-          subtitle = "Unapologetically Black Engineering Manager, Helping To Make The Tech Field More Equitable"
+          avatarURL = "/images/profilePic.jpeg"
+          title = "Hi, I'm Africa!"
+          subtitle = "Software engineer, occupational therapist and yoga teacher committed to increasing web accessibility "
           typeit = true
           social = true
           disclaimer = ""
       # Social config in home page
       [languages.en.params.social]
-        GitHub = "stephondoestech"
-        Twitter = "stephondoestech"
+        GitHub = "codingTherapist"
+        Twitter = ""
        # Instagram = "xxxx"
        # Facebook = "xxxx"
        # Telegram = "xxxx"
-        Youtubechannel = "UCwwWc-5s7GqH8nV9bOMeI1g"
-        Email = "sgparker62gmail"
+        Youtubechannel = ""
+        Email = "africaminceygmail"
        # RSS = false
        # [languages.en.params.social.Mastodon]
           id = "@xxxx"
@@ -145,15 +145,15 @@ enableEmoji = true
   # site default theme ("auto", "light", "dark")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
-  gitRepo = "https://github.com/stephondoestech"
+  gitRepo = "https://github.com/africamincey"
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
   # date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "Stephon Parker"
+  title = "Africa Mincey, M.S.,"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Stephon Parker Blog"
+  description = "Africa Mincey Portfolio"
   # website images for Open Graph and Twitter Cards
   images = ["static/favicon.ico"]
 
@@ -168,7 +168,7 @@ enableEmoji = true
       # URL of the LOGO
       logo = ""
       # title name
-      name = "Stephon Parker"
+      name = "Africa Mincey"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = "<i class='fa-solid fa-file-code'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -215,7 +215,7 @@ enableEmoji = true
   # App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "Stephon Parker"
+    title = "Africa Mincey, M.S.,"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -259,7 +259,7 @@ enableEmoji = true
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.jpg"
+      avatarURL = "/images/profilePic.jpeg"
       # title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
@@ -283,17 +283,17 @@ enableEmoji = true
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "https://github.com/stephondoestech"
-    Linkedin = "http://www.linkedin.com/in/stephondoestech"
-    Twitter = "https://twitter.com/stephondoestech"
+    GitHub = ""
+    Linkedin = "http://www.linkedin.com/in/africamincey"
+    Twitter = ""
     Instagram = ""
     Facebook = ""
     Telegram = ""
-    Medium = "https://stephondoestech.medium.com"
+    Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
     Youtubecustom = ""
-    Youtubechannel = ""
+    Youtubechannel = "https://www.youtube.com/channel/UCiaMi-uLijoOEPT0lfaQCvw"
     Tumblr = ""
     Quora = ""
     Keybase = ""
@@ -345,7 +345,7 @@ enableEmoji = true
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Email = "sgparker62gmail"
+    Email = "africaminceygmail"
     RSS = ""
 
   # Page global config
@@ -524,7 +524,7 @@ enableEmoji = true
       # Publisher info
       [params.page.seo.publisher]
         name = "xxxx"
-        logoUrl = "/images/avatar.png"
+        logoUrl = "/images/profilePic.jpeg"
 
   # TypeIt config
   [params.typeit]

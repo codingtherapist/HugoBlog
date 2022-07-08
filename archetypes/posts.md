@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 lastmod: {{ .Date }}
 draft: true
-author: "Stephon Parker"
+author: "Africa Mincey"
 authorLink: "https://stephonp.com"
 description: ""
 images: ["featured-image.png"]

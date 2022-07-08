@@ -3,8 +3,8 @@ title: "We're Live"
 date: 2022-05-09T11:29:41+08:00
 lastmod: 2022-05-09T11:29:41+08:00
 draft: false
-author: "Stephon Parker"
-authorLink: "https://stephonp.com"
+author: "Africa Mincey"
+authorLink: "https://.com"
 description: "This is the first post of my new portfolio built on Hugo."
 images: ["featured-image.png"]
 resources:
@@ -20,6 +20,6 @@ toc:
   enable: false
 ---
 
-### Hello There!
+### Hi!
 
-I'm super excited to launch my brand new website on a new domain and build on the Hugo framework. I've been focusing on video content lately, which you can check out on my [YouTube channel](https://www.youtube.com/channel/UCwwWc-5s7GqH8nV9bOMeI1g) (shameless plug). Keep an eye out for more exciting and amazing content coming your way.
+Thanks for visiting my page and checking out some of my work. I'm excited to share my web developement and virtual therapy projects, and learn in public. I've been focusing on advocating for web accessibility while building web applications that increase wellness with therapeutic movement using javascript, node.js, golang, and express. 
