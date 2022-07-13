@@ -61,13 +61,13 @@ enableEmoji = true
     title = ""
     weight = 2
   [[menu.main]]
-    identifier = "blog"
+    identifier = "posts"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Blog"
-    url = "/blog/"
+    name = "Posts"
+    url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 3
@@ -116,8 +116,8 @@ enableEmoji = true
           enable = true
           gravatarEmail = ""
           avatarURL = "/images/profilePic.jpeg"
-          title = "Hi, I'm Africa!"
-          subtitle = "Software engineer, occupational therapist and yoga teacher committed to increasing web accessibility "
+          title = "Hi, I'm Africa, The Coding Therapist"
+          subtitle = "Software engineer, occupational therapist and yoga teacher passionate about accessibility and developer well-being"
           typeit = true
           social = true
           disclaimer = ""
@@ -128,8 +128,8 @@ enableEmoji = true
        # Instagram = "xxxx"
        # Facebook = "xxxx"
        # Telegram = "xxxx"
-        Youtubechannel = ""
-        Email = "africaminceygmail"
+        Youtubechannel = "UCiaMi-uLijoOEPT0lfaQCvw"
+        Email = "africamincey@gmail.com"
        # RSS = false
        # [languages.en.params.social.Mastodon]
           id = "@xxxx"
@@ -261,7 +261,7 @@ enableEmoji = true
       # URL of avatar shown in home page
       avatarURL = "/images/profilePic.jpeg"
       # title shown in home page (HTML format is supported)
-      title = ""
+      title = "Test"
       # subtitle shown in home page
       subtitle = "A Clean, Elegant but Advanced Hugo Theme"
       # whether to use typeit animation for subtitle

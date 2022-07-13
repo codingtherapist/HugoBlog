@@ -9,7 +9,7 @@ math:
   enable: true
 ---
 
-![Hugo Theme LoveIt](../assets/images/headshot.jpg)
+![Hugo Theme LoveIt](/images/headshot.jpg)
 
 Hi, I’m Africa! I am an Occupational Therapist and Software Engineer specializing in assistive technology, full-stack web development, and yoga therapy. My passion is working with technology to increase accessibility for neuro-typical individuals as well as those with cognitive, physical, and emotional needs. My desire is to be an advocate for users of technology and build meaningful relationships rooted in finding creative solutions to technical problems.
 
