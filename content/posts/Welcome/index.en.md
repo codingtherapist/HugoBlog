@@ -11,11 +11,11 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["blog"]
+tags: ["Intro"]
 categories: ["Blog Post"]
 
 hiddenFromHomePage: false
-
+weight: 1
 toc:
   enable: false
 ---

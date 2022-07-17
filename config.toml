@@ -125,6 +125,7 @@ enableEmoji = true
       [languages.en.params.social]
         GitHub = "codingTherapist"
         Twitter = ""
+        Linkedin = "africamincey"
        # Instagram = "xxxx"
        # Facebook = "xxxx"
        # Telegram = "xxxx"
@@ -261,7 +262,7 @@ enableEmoji = true
       # URL of avatar shown in home page
       avatarURL = "/images/profilePic.jpeg"
       # title shown in home page (HTML format is supported)
-      title = "Test"
+      title = ""
       # subtitle shown in home page
       subtitle = "A Clean, Elegant but Advanced Hugo Theme"
       # whether to use typeit animation for subtitle
@@ -418,7 +419,7 @@ enableEmoji = true
       enable = true
       Twitter = true
       Facebook = false
-      Linkedin = false
+      Linkedin = true
       Whatsapp = false
       Pinterest = false
       Tumblr = false
