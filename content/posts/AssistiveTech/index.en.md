@@ -2,17 +2,17 @@
 title: "Why Developer's Should Care About Semantic HTML"
 date: 2022-07-09T11:16:54-04:00
 lastmod: 2022-07-09T11:16:54-04:00
-draft: true
+draft: false
 author: "Africa Mincey"
 authorLink: "https://.com"
 description: ""
-images: ["featured-image.jpg"]
+images: ["featured-image.png"]
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  src: "featured-image.png"
 
 tags: ["assistive technology"]
-categories: ["blog post"]
+categories: ["accessibility"]
 
 hiddenFromHomePage: false
 

@@ -1,15 +1,15 @@
 ---
-title: "HandStretch"
+title: "5 Stretches for the Wrist for Computer Users"
 date: 2022-07-13T11:38:15-04:00
 lastmod: 2022-07-13T11:38:15-04:00
-draft: true
+draft: false
 author: "Africa Mincey"
 authorLink: "https://.com"
 description: ""
-images: ["featured-image.jpg"]
+images: ["featured-image.png"]
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  src: "featured-image.png"
 
 tags: ["yoga therapy"]
 categories: ["yoga"]

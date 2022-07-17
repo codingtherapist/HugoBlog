@@ -11,8 +11,8 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["Intro"]
-categories: ["Blog Post"]
+tags: ["Welcome"]
+categories: ["Personal"]
 
 hiddenFromHomePage: false
 weight: 1
