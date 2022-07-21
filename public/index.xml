@@ -1,0 +1,40 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Africa Kenyah</title>
+        <link>https://africakenyah.com/</link>
+        <description>Africa Mincey Portfolio</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>africakenyah@gmail.com (Africa Kenyah)</managingEditor>
+            <webMaster>africakenyah@gmail.com (Africa Kenyah)</webMaster><lastBuildDate>Wed, 13 Jul 2022 11:38:15 -0400</lastBuildDate>
+            <atom:link href="https://africakenyah.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Welcome</title>
+    <link>https://africakenyah.com/welcome/</link>
+    <pubDate>Mon, 09 May 2022 11:29:41 &#43;0800</pubDate>
+    <author>Africa Mincey</author>
+    <guid>https://africakenyah.com/welcome/</guid>
+    <description><![CDATA[Greetings! Thank you for visiting my page and checking out some of my work. I&rsquo;m excited to learn in public and share my full stack web development journey. This page will feature education, tutorials and musings in text and video format of my therapeutic programming projects. This will include both Yoga for Tech Workers and building responsive web applications using html, css, javascript, node.js, express and react.
+My desire is to educate, develop relationships and build community using technology as a catalyst for connection.]]></description>
+</item>
+<item>
+    <title>5 Stretches for the Wrist for Computer Users</title>
+    <link>https://africakenyah.com/handexercises/</link>
+    <pubDate>Wed, 13 Jul 2022 11:38:15 -0400</pubDate>
+    <author>Africa Mincey</author>
+    <guid>https://africakenyah.com/handexercises/</guid>
+    <description><![CDATA[This post is brought to you by my raging writs pain
+The irony is not lost on me that I spend my day helping patients rehab upper extremity injuries, and have given myself one.
+console.log('hello, carpal tunnel!')
+Lately, I find myself spending very long hours on the computer. During the day I see patients on zoom, then abuse my keyboard to complete evaluations and daily documentation. The rest of my free time is spent with even more screens, learning how to code, watching tutorials, editing videos, the list goes on.]]></description>
+</item>
+<item>
+    <title>Why Developer&#39;s Should Care About Semantic HTML</title>
+    <link>https://africakenyah.com/assistivetech/</link>
+    <pubDate>Sat, 09 Jul 2022 11:16:54 -0400</pubDate>
+    <author>Africa Mincey</author>
+    <guid>https://africakenyah.com/assistivetech/</guid>
+    <description><![CDATA[Today I&rsquo;ve been thinking about something I&rsquo;ve thought about a lot: Semantic HTML. I know, kind of boring, but hear me out!
+It has come up recently in conversations in digital spaces. Web developers are asking themselves, does HTML semantics really matter? I&rsquo;d like to toss my reply in the ring: HTML semantics ABSOLUTELY matter. It is often the thing stopping users from being able to use your website.
+I am so passionate about this because I have seen firsthand how users of assistive technology, which rely on reading HTML to give information to the user, are impacted.]]></description>
+</item>
+</channel>
+</rss>

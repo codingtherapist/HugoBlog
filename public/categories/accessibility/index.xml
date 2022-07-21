@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>accessibility - Category - Africa Kenyah</title>
+        <link>https://africakenyah.com/categories/accessibility/</link>
+        <description>accessibility - Category - Africa Kenyah</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>africakenyah@gmail.com (Africa Kenyah)</managingEditor>
+            <webMaster>africakenyah@gmail.com (Africa Kenyah)</webMaster><lastBuildDate>Sat, 09 Jul 2022 11:16:54 -0400</lastBuildDate><atom:link href="https://africakenyah.com/categories/accessibility/" rel="self" type="application/rss+xml" /><item>
+    <title>Why Developer&#39;s Should Care About Semantic HTML</title>
+    <link>https://africakenyah.com/assistivetech/</link>
+    <pubDate>Sat, 09 Jul 2022 11:16:54 -0400</pubDate>
+    <author>Africa Mincey</author>
+    <guid>https://africakenyah.com/assistivetech/</guid>
+    <description><![CDATA[Today I&rsquo;ve been thinking about something I&rsquo;ve thought about a lot: Semantic HTML. I know, kind of boring, but hear me out!
+It has come up recently in conversations in digital spaces. Web developers are asking themselves, does HTML semantics really matter? I&rsquo;d like to toss my reply in the ring: HTML semantics ABSOLUTELY matter. It is often the thing stopping users from being able to use your website.
+I am so passionate about this because I have seen firsthand how users of assistive technology, which rely on reading HTML to give information to the user, are impacted.]]></description>
+</item>
+</channel>
+</rss>

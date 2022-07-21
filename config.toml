@@ -1,4 +1,4 @@
-baseURL = "https://africamincey.com"
+baseURL = "https://africakenyah.com"
 
 # determines default content language [en, zh-cn, fr, pl, ...]
 defaultContentLanguage = "en"
@@ -10,7 +10,7 @@ theme = "LoveIt"
 # themesDir = "themes/"
 
 # website title
-title = "Africa Mincey"
+title = "Africa Kenyah"
 
 # language code [en, zh-CN, fr, pl, ...]
 languageCode = "en"
@@ -38,8 +38,8 @@ enableEmoji = true
 # Author config
 # 作者配置
 [author]
-  name = "Africa Mincey"
-  email = "africamincey@gmail.com"
+  name = "Africa Kenyah"
+  email = "africakenyah@gmail.com"
   link = ""
 
 # Menu config
@@ -76,7 +76,7 @@ enableEmoji = true
     pre = ""
     post = ""
     name = "Porfolio"
-    url = ""
+    url = "/portfolio/"
     title = ""
     weight = 4
   [[menu.main]]
