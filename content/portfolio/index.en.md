@@ -1,5 +1,5 @@
 ---
-title: "About Africa"
+title: "My Work"
 date: 2022-05-09T11:04:49+08:00
 draft: false
 
@@ -9,12 +9,58 @@ math:
   enable: true
 ---
 
-![Hugo Theme LoveIt](/images/headshot.jpg)
+![Hugo Theme LoveIt](/images/pic02.jpeg)
 
-Hi, I’m Africa! I am an Occupational Therapist and Software Engineer specializing in assistive technology, full-stack web development, and yoga therapy. My passion is working with technology to increase accessibility for neuro-typical individuals as well as those with cognitive, physical, and emotional needs. My desire is to be an advocate for users of technology and build meaningful relationships rooted in finding creative solutions to technical problems.
+I build mindful web applications using HTML, CSS, Javascript and NodeJS
+Below you find a link to the live site of my projects, as well as the github repository. <br>
+Please note that many of these web pages are still in progress and in different stages of development. </p>
+	<br><br>
+				
 
-I share yoga tips for computer users, as well as talk about my journey merging therapy and technology on my YouTube channel: https://youtube.com/user/africakenyah
+<b>5 Minute Stretch Break for Tech Workers</b><br><br>
+![landing page with title 'Take a 5 Minute Stretch Break' and area to click for 'eye' 'neck' 'hands' and 'shoulders' as well as photo depicting eye stretch](/images/stretchApp.png)
 
-I have extensive experience with collaboration and supervision of multi functional teams, teaching and presenting of complex ideas and concepts, sections 504 and 508 of the ADA, accessibility and inclusion. I use web development tools to create dynamic web applications using HTML, CSS, JavaScript, express, mongoDB and node.JS.
+<br>
+A stretch break web application for computer users featuring a countdown clock, yoga stretches for different body parts and a growing plant object. This site was built with HMTL, CSS, and vanilla Javascript and hosted on Netlify. <br><br>
+<a class="btn" href="#">Coming Soon </a><br><br><br>
+									
+						
 
-I am interested in increasing innovation and usability for virtual tools and platforms using universal design that can benefit people of all abilities. I believe thoughtful user research and design can transform telemedicine and digital space for the better. I look forward to expanding my knowledge and reach in the technology and healthcare industry as a therapist, software engineer, and accessibility specialist.
+
+<b>Holistic Aim Therapy Assitive Technology Page</b><br><br>
+![landing page with title where therapy meets technology](/images/therapySite.png)
+
+<br>
+An assistive technology business web page built with Wordpress. <br><br>
+										<a href="https://www.holisticaimtherapy.com/">View Site »</a><br
+									</p><br><br>
+
+
+<b>		Message from the Universe NASA API </b><br><br>
+![nasa API landing page with pictuer of galaxy](/images/nasaapp.png)
+
+<br>
+A fullstack image generator using NASA's API's to display a picture from one of thier powerful microscopes and rovers. This site was built using HTML, CSS, Javascript and NodeJS.
+<br><br>
+<a class="btn" href="#">Coming Soon </a><br>
+									</p><br><br><br>							
+
+							
+<b>	Neuro-Divergents Anonymous</b><br><br>
+![Hugo Theme LoveIt](/images/neuro.png)<br><br>
+A fullstack CRUD web application for uploading silent mental, emotional or physical health diagnosis and treatmemt tips anonomously. This site was built using HTML, CSS, Javascript, NodeJS, Express, MongoDB and hosted on Netlify. <br><br>		
+[Coming soon ]()		
+<br><br><br>
+
+<b>	Space Media Fullstack CRUD Web App</b><br><br>
+![Hugo Theme LoveIt](/images/spacemedia.png)<br><br>
+	A fullstack CRUD web application for finding and sharing your favorite book, movie or TV related to outer space. This site was built using HTML, CSS, Javascript, NodeJS, Express, MongoDB and hosted on Heroku <br><br>		
+[Coming soon ]()		
+<br><br><br>
+
+<b>Tarot Card Reading App</b><br><br>
+![Hugo Theme LoveIt](/images/tarotapp.png)<br><br>
+	A fullstack CRUD web application that displays a tarot card on click where the flip happens server side. This site was built using HTML, CSS, Javascript, NodeJS, Express, MongoDB and hosted on Heroku. <br><br>		
+[Coming soon ]()		
+<br><br><br>
+		

@@ -72,11 +72,11 @@ enableEmoji = true
     title = ""
     weight = 3
   [[menu.main]]
-    identifier = "Portfolio"
+     identifier = "portfolio"
     pre = ""
     post = ""
-    name = "Porfolio"
-    url = "/portfolio/"
+    name = "Portfolio"
+    url = "/portfolio"
     title = ""
     weight = 4
   [[menu.main]]
@@ -130,7 +130,7 @@ enableEmoji = true
        # Facebook = "xxxx"
        # Telegram = "xxxx"
         Youtubechannel = "UCiaMi-uLijoOEPT0lfaQCvw"
-        Email = "africamincey@gmail.com"
+        Email = "africakenyah@gmail.com"
        # RSS = false
        # [languages.en.params.social.Mastodon]
           id = "@xxxx"
@@ -152,9 +152,9 @@ enableEmoji = true
   # date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "Africa Mincey, M.S.,"
+  title = "Africa Kenyah, M.S.,"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Africa Mincey Portfolio"
+  description = "Africa Kenyah's Blog"
   # website images for Open Graph and Twitter Cards
   images = ["static/favicon.ico"]
 
@@ -169,7 +169,7 @@ enableEmoji = true
       # URL of the LOGO
       logo = ""
       # title name
-      name = "Africa Mincey"
+      name = "Africa Kenyah"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = "<i class='fa-solid fa-file-code'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -216,7 +216,7 @@ enableEmoji = true
   # App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "Africa Mincey, M.S.,"
+    title = "Africa Kenyah"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -264,7 +264,7 @@ enableEmoji = true
       # title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
-      subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+      subtitle = "A blog about the intersection of technology and therapy"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
