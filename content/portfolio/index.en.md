@@ -12,7 +12,7 @@ math:
 ![Hugo Theme LoveIt](/images/pic02.jpeg)
 
 I build mindful web applications using HTML, CSS, Javascript and NodeJS
-Below you find a link to the live site of my projects, as well as the github repository. <br>
+Below you find a link to the live site of my projects, as well as the github repository. <br><br>
 Please note that many of these web pages are still in progress and in different stages of development. </p>
 	<br><br>
 				
