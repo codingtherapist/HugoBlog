@@ -50,7 +50,7 @@ If you've never tried this before and use VScode, I encourage you to try it your
 ![Screenshot of authors computer showing vscode open](https://cdn.hashnode.com/res/hashnode/image/upload/v1655932668080/3PPDB7Qa8.png )<br>
 <br>
 ### 5 . Click on "Initialize repository"<br><br>
-![Screenshot of authors computer showing caption previously stated](https://cdn.hashnode.com/res/hashnode/image/upload/v1655932642081/r1YcvHV6a.png align="left")
+![Screenshot of authors computer showing caption previously stated](https://cdn.hashnode.com/res/hashnode/image/upload/v1655932642081/r1YcvHV6a.png)
 <br><br>
 
 ### 6 . Type in the commit message and click the check mark to commit (or command enter)<br><br>
@@ -66,7 +66,7 @@ If you've never tried this before and use VScode, I encourage you to try it your
 ![Screenshot of authors computer showing demonstration of caption previously stated](https://cdn.hashnode.com/res/hashnode/image/upload/v1655932825467/ZBsYEcoji.png )
 <br><br>
 ### 10 . Enter your remote repository link and press enter<br><br>
-![Screenshot of authors computer showing demonstration of caption previously stated](https://cdn.hashnode.com/res/hashnode/image/upload/v1655932860906/6F8RB2vbR.png align="left")<br>
+![Screenshot of authors computer showing demonstration of caption previously stated](https://cdn.hashnode.com/res/hashnode/image/upload/v1655932860906/6F8RB2vbR.png )<br>
 <br>
 ### 11 . Type in the remote name and hit enter<br><br>
 ![Screenshot of authors computer showing demonstration of caption previously stated](https://cdn.hashnode.com/res/hashnode/image/upload/v1655932914657/aIl1Kx-DT.png )<br>
