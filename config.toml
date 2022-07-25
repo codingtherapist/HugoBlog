@@ -116,20 +116,20 @@ enableEmoji = true
           enable = true
           gravatarEmail = ""
           avatarURL = "/images/profilePic.jpeg"
-          title = "Hi, I'm Africa!"
-          subtitle = "Software engineer, occupational therapist and yoga teacher passionate about web accessibility and developer well-being"
+          title = "Hi, I'm Africa!" 
+          subtitle = "Software engineer, occupational therapist and yoga teacher"
           typeit = true
           social = true
           disclaimer = ""
       # Social config in home page
       [languages.en.params.social]
         GitHub = "codingTherapist"
-        Twitter = ""
         Linkedin = "africamincey"
        # Instagram = "xxxx"
        # Facebook = "xxxx"
        # Telegram = "xxxx"
         Youtubechannel = "UCiaMi-uLijoOEPT0lfaQCvw"
+         Twitter = "codingtherapist"
         Email = "africakenyah@gmail.com"
        # RSS = false
        # [languages.en.params.social.Mastodon]

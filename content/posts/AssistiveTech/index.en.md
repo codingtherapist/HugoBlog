@@ -3,8 +3,8 @@ title: "Why Developer's Should Care About Semantic HTML"
 date: 2022-07-09T11:16:54-04:00
 lastmod: 2022-07-09T11:16:54-04:00
 draft: false
-author: "Africa Mincey"
-authorLink: "https://.com"
+author: "Africa Kenyah"
+authorLink: "https://www.africakenyah.com"
 description: ""
 images: ["featured-image.png"]
 resources:

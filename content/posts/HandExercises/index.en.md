@@ -3,8 +3,8 @@ title: "5 Stretches for the Wrist for Computer Users"
 date: 2022-07-13T11:38:15-04:00
 lastmod: 2022-07-13T11:38:15-04:00
 draft: false
-author: "Africa Mincey"
-authorLink: "https://.com"
+author: "Africa Kenyah"
+authorLink: "https://www.africakenyah.com"
 description: ""
 images: ["featured-image.png"]
 resources:
