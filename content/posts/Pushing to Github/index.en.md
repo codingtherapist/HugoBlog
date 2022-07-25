@@ -24,7 +24,7 @@ I have a confession. Though I am getting better, I sometimes find navigating my 
 Recently, I decided to challenge myself and use the terminal to practice using GitHub. I'd been using GitHub desktop for my coding projects which made it pretty easy to push code to the remote repository with a few clicks. My transition to the terminal only was kind of a mess filled with error messages I'd eventually figure out. Lucky for me, I learned that pushing code directly from VSCode to GitHub is relatively pain free.
 
 ![im-so-relieved-moira.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1655934151174/S64uTYPrs.gif )<br><br>
-During a virtual meeting with a developer who was helping me with a project, they showed me how to push changes to my code right in VScode. 
+During a virtual meeting with a developer who was helping me with a project, they showed me how to push changes to my code right in VScode.<br><br> 
 ![internet-wow.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1655934231372/JUfLxPv_W.gif )<br><br>
 If you've never tried this before and use VScode, I encourage you to try it yourself with the below steps! <br><br><br><br>
 
