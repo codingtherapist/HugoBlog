@@ -66,7 +66,7 @@ If you've never tried this before and use VScode, I encourage you to try it your
 <br>
 
 ### 8 . Click on the 3 tiny circles near the check mark<br><br>
-![Screenshot of authors computer showing demonstration of caption previously stated](https://cdn.hashnode.com/res/hashnode/image/upload/v1655932776868/yv_2JRZmo.png align="left")
+![Screenshot of authors computer showing demonstration of caption previously stated](https://cdn.hashnode.com/res/hashnode/image/upload/v1655932776868/yv_2JRZmo.png)
 <br><br>
 
 ### 9 . Click on "Push"<br><br>
