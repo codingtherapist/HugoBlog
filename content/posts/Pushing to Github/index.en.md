@@ -76,7 +76,7 @@ If you've never tried this before and use VScode, I encourage you to try it your
 ![Screen Shot 2022-06-22 at 5.06.48 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655932963207/gD9DNx9uA.png )<br>
 <br>
 ### 13 . Select the repository you want to send it to
-![Screen Shot 2022-06-22 at 5.06.54 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655933021384/plieNWnf_.png ")
+![Screen Shot 2022-06-22 at 5.06.54 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655933021384/plieNWnf_.png)
 
 <br>
 ### 14 . Your code should be in the remote repository now, Yay!<br><br>
