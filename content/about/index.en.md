@@ -27,12 +27,13 @@ I enjoy:
 * the Web Content Accessibility Guidelines (WCAG) 2.1 - W3C<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingtherapist&layout=compact"/><br><br>
 
+⚡ Fun fact: One of the reasons I transitioned from the therapy field to technology is because I became more interested in problem-solving how to make the virtual therapy tools I was using better and more accessible (streamlining documentation tools, building therapeutic gaming rooms, etc).<br><br>
 
-I share yoga tips for computer users, as well as talk about my journey merging therapy and technology on my YouTube channel: https://youtube.com/user/africakenyah<br><br>
+📽️ I share yoga tips for computer users, as well as talk about my journey merging therapy and technology on my YouTube channel: https://youtube.com/user/africakenyah<br><br>
 
 🔭 I’m currently working on <br>
-  - A 5-minute stretch break web application for developers and computer users.   This site is being built with <b>HMTL, CSS, and vanilla Javascript</b>. An API to retrieve yoga poses based on body parts will be added using nodejs, express, and mongoDB.
-  - A full-stack CRUD web application for uploading silent mental, emotional or physical health diagnoses and treatment tips anonymously. This site is being built using <b>HTML, CSS, Javascript, NodeJS, Express, MongoDB, and hosted on Netlify</b>.<br><br>
+  - A [5-minute stretch break web application](https://africakenyah.com/portfolio) for developers and computer users.   This site is being built with <b>HMTL, CSS, and vanilla Javascript</b>. An API to retrieve yoga poses based on body parts will be added using nodejs, express, and mongoDB.
+  - A [full-stack CRUD web application](https://africakenyah.com/portfolio) for uploading silent mental, emotional or physical health diagnoses and treatment tips anonymously. This site is being built using <b>HTML, CSS, Javascript, NodeJS, Express, MongoDB, and hosted on Netlify</b>.<br><br>
 
 💬 Ask me:
 * for yoga tips for developers
@@ -40,8 +41,6 @@ I share yoga tips for computer users, as well as talk about my journey merging t
 * about ergonomics (standing desks and specialized keyboards/ mice have saved my life!)<br><br>
 
 📫 How to reach me: [On my personal site](https://africamincey.netlify.app/)<br><br>
-
-⚡ Fun fact: One of the reasons I transitioned from the therapy field to technology is because I became more interested in problem-solving how to make the virtual therapy tools I was using better and more accessible (streamlining documentation tools, building therapeutic gaming rooms, etc).<br><br>
 
 <b>Bonus:</b> Interested in learning beginner-friendly stretches for developers who sit at a computer all day? Check out the first issue of the Biweekly Stretch of the Week Newsletter below and [Subscribe here for more](https://www.getrevue.co/profile/Africakenyah?via=twitter-profile)
 

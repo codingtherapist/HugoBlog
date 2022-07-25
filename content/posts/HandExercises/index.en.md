@@ -31,7 +31,7 @@ The irony is not lost on me that I spend my day helping patients rehab upper ext
 
 Lately, I find myself spending very long hours on the computer. During the day I see patients on zoom, then abuse my keyboard to complete evaluations and daily documentation.  The rest of my free time is spent with even more screens, learning how to code, watching tutorials, editing videos, the list goes on.
 
-![photo pf shrek with red eyes](https://cdn.hashnode.com/res/hashnode/image/upload/v1650648950667/hhJTtsXXn.JPG)
+![photo of shrek with red eyes](https://cdn.hashnode.com/res/hashnode/image/upload/v1650648950667/hhJTtsXXn.JPG)
 > When your job and all your hobbies involve staring at screens
 
 Needless to say, my whole body has been aching, especially my wrists. While we could go further by talking about ergonomics to prevent wrist pain, we will save that for another blog post and focus on stretches to prevent and alleviate wrist tension from repetitive motions.
