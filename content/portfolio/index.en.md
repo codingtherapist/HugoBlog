@@ -25,11 +25,11 @@ Please note that many of these web pages are still in progress and in different 
 <a href="https://github.com/codingtherapist/serverSideTarotFlip/blob/master/README.md	">GitHub repo »</a><br>
 <br><br><br>
 
-<b>5 Minute Stretch Break for Tech Workers</b><br><br>
+<b>My Stretch Break</b><br><br>
 ![landing page with title 'Take a 5 Minute Stretch Break' and area to click for 'eye' 'neck' 'hands' and 'shoulders' as well as photo depicting eye stretch](/images/stretchApp.png)
 
 <br>
-A stretch break web application for computer users featuring a countdown clock, yoga stretches for different body parts and a growing plant object. This site was built with HMTL, CSS, and vanilla Javascript and hosted on Netlify. <br>
+A 5 minute stretch break web application for computer users featuring a countdown clock, yoga stretches for different body parts and a growing plant object. This site was built with HMTL, CSS, and vanilla Javascript and hosted on Netlify. <br>
 Note: This site is still under construction and may display errors <br><br>
 <a class="btn" href="https://mystretchbreak.netlify.app/">View Site </a><br><br><br>
 <a class="btn" href="https://github.com/codingtherapist/5minutestretch">GitHub Repo</a><br><br><br>
