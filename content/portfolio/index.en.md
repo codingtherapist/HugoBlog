@@ -18,7 +18,8 @@ Please note that many of these web pages are still in progress and in different 
 				
 <b>Tarot Card Flip App</b><br><br>
 ![photo with drawing of hand with tarot cards in it](/images/tarotapp.png)<br><br>
-	A fullstack web application that displays a tarot card on click where the flip function happens server side. This site was built using HTML, CSS, Javascript, NodeJS, Express, and hosted on Heroku. <br><br>		
+	A fullstack web application that displays a tarot card on click where the flip function happens server side. This site was built using HTML, CSS, Javascript, NodeJS, Express, and hosted on Heroku. <br>
+	Note: This site is still under construction<br>	<br>	
 	
 <a href="https://tarotflip.herokuapp.com/">View Site »</a><br>
 <a href="https://github.com/codingtherapist/serverSideTarotFlip/blob/master/README.md	">GitHub repo »</a><br>
@@ -28,8 +29,10 @@ Please note that many of these web pages are still in progress and in different 
 ![landing page with title 'Take a 5 Minute Stretch Break' and area to click for 'eye' 'neck' 'hands' and 'shoulders' as well as photo depicting eye stretch](/images/stretchApp.png)
 
 <br>
-A stretch break web application for computer users featuring a countdown clock, yoga stretches for different body parts and a growing plant object. This site was built with HMTL, CSS, and vanilla Javascript and hosted on Netlify. <br><br>
-<a class="btn" href="#">Coming Soon </a><br><br><br>
+A stretch break web application for computer users featuring a countdown clock, yoga stretches for different body parts and a growing plant object. This site was built with HMTL, CSS, and vanilla Javascript and hosted on Netlify. <br>
+Note: This site is still under construction and may display errors <br><br>
+<a class="btn" href="https://mystretchbreak.netlify.app/">View Site </a><br><br><br>
+<a class="btn" href="https://github.com/codingtherapist/5minutestretch">GitHub Repo</a><br><br><br>
 									
 						
 
