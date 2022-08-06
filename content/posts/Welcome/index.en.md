@@ -22,8 +22,20 @@ toc:
 
 ### Greetings! 
 
-Welcome to my body of work. My desire is to educate, advocate for developer well-being, and build community using technology as a catalyst for connection. I'm excited to learn in public and share my full-stack web development journey while highlighting assistive technology and web accessibility. This page will feature education, tutorials, and musings in text and video format of my therapeutic programming projects. This will include both Yoga for Tech Workers and building responsive web applications using HTML, CSS, javascript, node.js, express and react.
-I use my background as a virtual therapist and my experience providing assistive technology and yoga therapy services to advocate for both users and creators of technology.
-Ultimately, I’d like to highlight the dynamic intersection of technology and health, while increasing web accessibility and developer wellbeing.
-I hope you enjoy the ride!
+Welcome to my body of work. I'm excited to learn in public and share my web development journey with you!
+ 
+🌱 My desire is to:
+* share what I learn as I build full-stack web applications
+* advocate for developer well-being and web accessibility
+* build community using technology as a catalyst for connection
+* apply my background as a therapist and problem solver to increase therapeutic uses of technology
 
+
+ 
+🌱 This page will feature:
+* education on web accessibility and assistive technology
+* my journey through learning how to code as a community taught developer
+* yoga tutorials for tech workers
+ 
+Ultimately, I’d like to highlight the dynamic intersection of technology and health, while sharing everything I learn in between.
+I hope you enjoy the ride!

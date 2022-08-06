@@ -16,6 +16,13 @@ Below you will find a link to the live site of my projects, as well as the githu
 Please note that many of these web pages are still in progress and in different stages of development. </p>
 	<br><br>
 				
+<b>Tarot Card Flip App</b><br><br>
+![photo with drawing of hand with tarot cards in it](/images/tarotapp.png)<br><br>
+	A fullstack web application that displays a tarot card on click where the flip function happens server side. This site was built using HTML, CSS, Javascript, NodeJS, Express, and hosted on Heroku. <br><br>		
+	
+<a href="https://tarotflip.herokuapp.com/">View Site »</a><br>
+<a href="https://github.com/codingtherapist/serverSideTarotFlip/blob/master/README.md	">GitHub repo »</a><br>
+<br><br><br>
 
 <b>5 Minute Stretch Break for Tech Workers</b><br><br>
 ![landing page with title 'Take a 5 Minute Stretch Break' and area to click for 'eye' 'neck' 'hands' and 'shoulders' as well as photo depicting eye stretch](/images/stretchApp.png)
@@ -32,7 +39,7 @@ A stretch break web application for computer users featuring a countdown clock, 
 
 <br>
 An assistive technology business web page built with Wordpress. <br><br>
-										<a href="https://www.holisticaimtherapy.com/">View Site »</a><br
+										<a href="https://www.holisticaimtherapy.com/">View Site »</a><br>
 									</p><br><br>
 
 
@@ -58,9 +65,5 @@ A fullstack CRUD web application for uploading silent mental, emotional or physi
 [Coming soon ]()		
 <br><br><br>
 
-<b>Tarot Card Reading App</b><br><br>
-![photo with drawing of hand with tarot cards in it](/images/tarotapp.png)<br><br>
-	A fullstack CRUD web application that displays a tarot card on click where the flip happens server side. This site was built using HTML, CSS, Javascript, NodeJS, Express, MongoDB and hosted on Heroku. <br><br>		
-[Coming soon ]()		
-<br><br><br>
+
 		
