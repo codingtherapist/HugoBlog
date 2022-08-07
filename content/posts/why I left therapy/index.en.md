@@ -11,7 +11,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["tech", "healthcare", "occupationaltherapy"]
+tags: ["tech", "healthcare", "occupational therapy"]
 categories: ["tech"]
 
 hiddenFromHomePage: false

@@ -11,7 +11,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["assistive technology"]
+tags: ["assistive technology", "tech"]
 categories: ["accessibility"]
 
 hiddenFromHomePage: false
