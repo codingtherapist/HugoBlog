@@ -1,7 +1,7 @@
 ---
 title: "What I Learned from 10 Coffee Chats with 10 Developers"
-date: 2022-07-13T11:38:15-04:00
-lastmod: 2022-07-13T11:38:15-04:00
+date: 2022-05-13T11:38:15-04:00
+lastmod: 2022-05-13T11:38:15-04:00
 draft: false
 author: "Africa Kenyah"
 authorLink: "https://www.africakenyah.com"
