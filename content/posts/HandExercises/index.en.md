@@ -20,9 +20,9 @@ toc:
   enable: false
 ---
 
-This post is brought to you by my raging writs pain
+This post is brought to you by my raging wrist pain.
 
-![photo of arther holding up hands with caption "raging writs pain" ](https://cdn.hashnode.com/res/hashnode/image/upload/v1650645811449/JIHPNHoUr.jpg)
+![photo of arther holding up hands with caption "raging wrist pain" ](https://cdn.hashnode.com/res/hashnode/image/upload/v1650645811449/JIHPNHoUr.jpg)
 
 The irony is not lost on me that I spend my day helping patients rehab upper extremity injuries, and have given myself one.
 
