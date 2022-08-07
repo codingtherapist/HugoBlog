@@ -40,7 +40,7 @@ I enjoy:
 * about my fascination with assistive technology 
 * about ergonomics (standing desks and specialized keyboards/ mice have saved my life!)<br><br>
 
-📫 How to reach me: [On my personal site](https://africamincey.netlify.app/)<br><br>
+📫 How to reach me: [On my personal site](https://www.africamincey.com/)<br><br>
 
 <b>Bonus:</b> Interested in learning beginner-friendly stretches for developers who sit at a computer all day? Check out the first issue of the Biweekly Stretch of the Week Newsletter below and [Subscribe here for more](https://www.getrevue.co/profile/Africakenyah?via=twitter-profile)
 
