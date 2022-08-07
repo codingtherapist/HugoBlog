@@ -16,7 +16,7 @@ Link to project: https://www.africakenyah.com/
 
 Tech used: Hugo, GoLang
 
-- Hugo framework used to construct and organize static markup pages for contact, about me, portfolio and blog posts pages
+- Hugo framework used to construct web pages using static markdown for contact, about me, portfolio and blog posts pages
 
 
 
