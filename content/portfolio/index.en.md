@@ -22,7 +22,7 @@ Please note that many of these web pages are still in progress and in different 
 	Note: This site is still under construction<br>	<br>	
 	
 <a href="https://tarotflip.herokuapp.com/">View Site »</a><br>
-<a href="https://github.com/codingtherapist/serverSideTarotFlip/blob/master/README.md	">GitHub repo »</a><br>
+<a href="https://github.com/codingtherapist/serverSideTarotFlip">GitHub repo »</a><br>
 <br><br><br>
 
 <b>My Stretch Break</b><br><br>
