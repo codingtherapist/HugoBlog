@@ -20,15 +20,15 @@ toc:
   enable: false
 ---
   
-  
-  
-  
-This blog post was originally posted on Hashnode on May 3, 2022 at https://codingtherapy.hashnode.dev/what-i-learned-from-10-coffee-chats-with-software-engineers
-
-
 In my quest to dive deeper into learning about the Software Engineering field, I reached out to some friends I knew who graduated from a full-stack web development boot camp. I also reached out to everyone I knew in the tech field IRL. This included devs on Twitter who were offering their time to chat over the past few months. 
 
 ![Liam Nelson on phone with caption I dont know who you are but we can have coffee and chat](https://cdn.hashnode.com/res/hashnode/image/upload/v1651103794280/-MX6vZdXT.jpeg)
+
+
+
+  
+Note: This blog post was originally posted on Hashnode on May 3, 2022 at https://codingtherapy.hashnode.dev/what-i-learned-from-10-coffee-chats-with-software-engineers
+
 
 My goals for meeting with individuals in the tech field were to:
 
