@@ -22,7 +22,7 @@ languageName = "English"
 paginate = 6
 
 # [UA-XXXXXXXX-X] google analytics code
-googleAnalytics = ""
+googleAnalytics = "326369889"
 # copyright description used only for seo schema
 copyright = ""
 
@@ -40,7 +40,7 @@ enableEmoji = true
 [author]
   name = "Africa Kenyah"
   email = "africakenyah@gmail.com"
-  link = ""
+  link = "www.africakenyah.com"
 
 # Menu config
 [menu]
@@ -144,7 +144,7 @@ enableEmoji = true
       
 [params]
   # site default theme ("auto", "light", "dark")
-  defaultTheme = "auto"
+  defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
   gitRepo = "https://github.com/africamincey"
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
@@ -154,9 +154,9 @@ enableEmoji = true
   # website title for Open Graph and Twitter Cards
   title = "Africa Kenyah, M.S.,"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Africa Kenyah's Blog"
+  description = "At the intersection of therapy and technology, The Coding Therapist shares her full stack web development journey by learning in public"
   # website images for Open Graph and Twitter Cards
-  images = ["static/favicon.ico"]
+  images = ["/images/codingtherapist.png"]
 
   # Header config
   [params.header]
@@ -220,7 +220,7 @@ enableEmoji = true
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
-    svgFavicon = "/static/favicon.ico"
+    svgFavicon = "/images/favicon.ico"
     # Android browser theme color
     themeColor = "#ffffff"
     # Safari mask icon color
@@ -549,16 +549,16 @@ enableEmoji = true
   # Site SEO config
   [params.seo]
     # image URL
-    image = "../static/favicon.ico"
+    image = "/images/favicon.ico"
     # thumbnail URL
-    thumbnailUrl = "../static/favicon.ico"
+    thumbnailUrl = "/images/favicon.ico"
 
   # Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "3886024685"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
