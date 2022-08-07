@@ -6,7 +6,7 @@ Link to project: https://www.africakenyah.com/
 
 
 
-![display of homepage of my stretch app application](/images/bloghome.png)
+![display of homepage of my stretch app application](static/images/bloghome.png)
 
 ![display of homepage of my stretch app application](/images/mywork.png)
 
