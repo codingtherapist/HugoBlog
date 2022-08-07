@@ -11,8 +11,8 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["github", "vscode"]
-categories: ["webdev"]
+tags: ["github", "vscode", "web development"]
+categories: ["tech"]
 
 hiddenFromHomePage: false
 
