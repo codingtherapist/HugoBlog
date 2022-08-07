@@ -17,7 +17,7 @@ Please note that many of these web pages are still in progress and in different 
 	<br><br>
 				
 <b>Tarot Card Flip App</b><br><br>
-![photo with drawing of hand with tarot cards in it](/images/tarotapp.png)<br><br>
+![photo with drawing of hand with tarot cards in it](/images/tarotappp.png)<br><br>
 	A fullstack web application that displays a tarot card on click where the flip function happens server side. This site was built using HTML, CSS, Javascript, NodeJS, Express, and hosted on Heroku. <br>
 	Note: This site is still under construction<br>	<br>	
 	
@@ -26,7 +26,7 @@ Please note that many of these web pages are still in progress and in different 
 <br><br><br>
 
 <b>My Stretch Break</b><br><br>
-![landing page with title 'Take a 5 Minute Stretch Break' and area to click for 'eye' 'neck' 'hands' and 'shoulders' as well as photo depicting eye stretch](/images/stretchApp.png)
+![landing page with title 'Take a 5 Minute Stretch Break' and area to click for 'eye' 'neck' 'hands' and 'shoulders' as well as photo depicting eye stretch](/images/mystretch.png)
 
 <br>
 A 5 minute stretch break web application for computer users featuring a countdown clock, yoga stretches for different body parts and a growing plant object. This site was built with HMTL, CSS, and vanilla Javascript and hosted on Netlify. <br>
@@ -46,11 +46,11 @@ A static blog page featuring posts, contact information, portfolio, and about me
 									
 
 
-<b>Holistic Aim Therapy Assitive Technology Page</b><br><br>
-![landing page with title where therapy meets technology](/images/therapySite.png)
+<b>Assistive Technology Business Page</b><br><br>
+![landing page with title where therapy meets technology](/images/holisticaim.png)
 
 <br>
-An assistive technology business web page built with Wordpress. <br><br>
+An assistive technology business web page built with Wordpress using the Elementor theme. <br><br>
 										<a href="https://www.holisticaimtherapy.com/">View Site »</a><br>
 									</p><br><br>
 
