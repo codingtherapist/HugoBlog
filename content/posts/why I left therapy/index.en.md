@@ -1,5 +1,5 @@
 ---
-title: "How to Push Code Directly from VSCode to Github"
+title: "Why I Decided to Leave the Therapy Field for a Career in Tech"
 date: 2022-04-19T11:38:15-04:00
 lastmod: 2022-04-19T11:38:15-04:00
 draft: false
