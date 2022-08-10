@@ -18,6 +18,11 @@ hiddenFromHomePage: false
 
 toc:
   enable: false
+
+aliases: 
+  - /posts/assistivetech/
+  - /test1.html
+  
 ---
 
 Today I've been thinking about something I've thought about a lot: Semantic HTML. I know, kind of boring, but hear me out! 

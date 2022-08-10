@@ -34,7 +34,18 @@ Note: This site is still under construction and may display errors <br><br>
 <a class="btn" href="https://mystretchbreak.netlify.app/">View Site » </a><br>
 <a class="btn" href="https://github.com/codingtherapist/5minutestretch">GitHub Repo »</a><br><br><br>
 									
-						
+## Message from the Universe NASA API<br> <br>
+![nasa API landing page with pictuer of galaxy](/images/nasaapi.png)
+
+
+A fullstack image generator using NASA's API's to display a picture from one of thier powerful microscopes and rovers. This site was built using<b> HTML, CSS, Javascript and NodeJS</b>. This site is still under construction with new backend features being added.
+<br><br>
+<a class="btn" href="https://messagefromtheuniverse.netlify.app/">Live Site >> </a><br>
+<a class="btn" href="https://github.com/codingtherapist/nasaapi/issues">                                                                                            GitHub Repo  >> </a>
+
+<br><br>
+
+																			
 ## The Coding Therapist Blog<br><br>
 ![landing page of hugo blog](/images/bloghome.png)
 
@@ -68,13 +79,7 @@ Weekly stretch breaks and yoga poses for tech workers and technology users. <br>
 
 #	Currently building
 The following projects are not ready for public hosting but will be available soon :)<br><br><br>
-<b>Message from the Universe NASA API</b><br>
-![nasa API landing page with pictuer of galaxy](/images/nasaapp.png)
-
-A fullstack image generator using NASA's API's to display a picture from one of thier powerful microscopes and rovers. This site was built using<b> HTML, CSS, Javascript and NodeJS</b>.
-<br><br>
-<a class="btn" href="#">Coming Soon </a><br>
-									</p><br><br><br>							
+		
 
 							
 <b>	Neuro-Divergents Anonymous</b><br><br>
