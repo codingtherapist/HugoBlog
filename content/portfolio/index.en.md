@@ -63,7 +63,7 @@ A static blog page featuring posts, contact information, portfolio, and about me
 <br>
 An assistive technology business web page built with <b>Wordpress</b> using the Elementor theme. <br><br>
 										<a href="https://www.holisticaimtherapy.com/">View Site »</a><br>
-									</p><br><br>
+									<br><br>
 
 
 
