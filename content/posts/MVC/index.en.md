@@ -26,7 +26,7 @@ toc:
 MVC (or Model, View, Controller) Architecture is a framework for developing applications. It organizes the components of your web application and creates a separation of concerns. It makes a clear distinction between the frontend (what the user sees) and the backend (the data and logic) of your code. This makes it easier to work on large, complex applications and collaborate with other developers. This makes it possible to make changes without affecting areas of your code you don’t want to be altered.
 
 To understand MVC, we need to understand the components of the framework.
-(If you would like to watch my video explanation, [here is my video on MVC](https://youtu.be/9cdkHG_riaw)<br><br>
+(If you would like to watch my video explanation, [here is my video on MVC](https://youtu.be/9cdkHG_riaw)). <br><br>
 
 ![A handwritten diagram on a whiteboard with words Controller (bridge) at top and arrows pointing from work controller left and down to word "view (UI)", with arrow going back out from view and up to the controller. Arrow come down from word "controller" to word "model (data)" with another arrow next to it come from top of "model" back to controller ](https://cdn.hashnode.com/res/hashnode/image/upload/v1661107091355/HUj0tntea.png)
 
