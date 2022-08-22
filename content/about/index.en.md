@@ -13,10 +13,11 @@ math:
 
 
 ## Hi, I'm Africa!
- ### I am a web developer, occupational therapist, and assistive technology specialist
+ ### I am a web developer, accessibility specialist and former occupational therapist. 
+
 I enjoy:
 * community building, blogging and content creation
-* learning in public by sharing my technical journey
+* creating dynamic, human centered web applications that focus on user wellness
 * advocating for the well-being of developers and end users
 * working with technology to increase accessibility for neuro-typical individuals + those with cognitive, physical, +/ emotional needs <br><br>
 
@@ -32,12 +33,15 @@ I enjoy:
 📽️ I share yoga tips for computer users, as well as talk about my journey merging therapy and technology on my YouTube channel: https://youtube.com/user/africakenyah<br><br>
 
 🔭 I’m currently working on <br>
+  - The Web Accessibility Pocket Guide. This API will display a database of WCAG 2.1 guidelines for web accessibility. This resource will include WCAG rules searchable by section and topic to be displayed from a backend database. HTML, CSS, Javascript, NodeJS, Express, PostgreSQL and hosted on Heroku
+
   - A [5-minute stretch break web application](https://africakenyah.com/portfolio) for developers and computer users.   This site is being built with <b>HMTL, CSS, and vanilla Javascript</b>. An API to retrieve yoga poses based on body parts will be added using nodejs, express, and mongoDB.
   - A [full-stack CRUD web application](https://africakenyah.com/portfolio) for uploading silent mental, emotional or physical health diagnoses and treatment tips anonymously. This site is being built using <b>HTML, CSS, Javascript, NodeJS, Express, MongoDB, and hosted on Netlify</b>.<br><br>
 
 💬 Ask me:
 * for yoga tips for developers
 * about my fascination with assistive technology 
+* about human centered design and universal design
 * about ergonomics (standing desks and specialized keyboards/ mice have saved my life!)<br><br>
 
 📫 How to reach me: [On my personal site](https://www.africamincey.com/)<br><br>
