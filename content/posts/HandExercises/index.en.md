@@ -27,12 +27,13 @@ This post is brought to you by my raging wrist pain.
 
 ![photo of arther holding up hands with caption "raging wrist pain" ](https://cdn.hashnode.com/res/hashnode/image/upload/v1650645811449/JIHPNHoUr.jpg)
 
-{{< youtube pOesssZfcTY >}}
+
 
 The irony is not lost on me that I spend my day helping patients rehab upper extremity injuries, and have given myself one.
 
 ```console.log('hello, carpal tunnel!')``` 
 
+{{< youtube pOesssZfcTY >}}
 
 Lately, I find myself spending very long hours on the computer. During the day I see patients on zoom, then abuse my keyboard to complete evaluations and daily documentation.  The rest of my free time is spent with even more screens, learning how to code, watching tutorials, editing videos, the list goes on.
 
