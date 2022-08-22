@@ -69,5 +69,5 @@ While this short article does not have a list of actionable steps you can take t
 
 Interested in learning more? A few days before this, I uploaded a video on different kinds of assistive technology and why it matters for developers, teachers, and healthcare workers.
 
-[Video: What is Assistive Technology? ](https://www.youtube.com/watch?v=S-npp6P6eMM)
+
 
