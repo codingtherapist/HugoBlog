@@ -22,9 +22,9 @@ toc:
 
 This article was originally created for a Twitter space with fellow web developer [Lucia](https://twitter.com/CerchieLucia). We covered topics including actionable first steps for better readability and usability of technical documentation. This article includes extra information and context not discussed during our chat.
 
-![Screen Shot of tweet showing twitter space titled "docs the thoughtful way: discussing human centered docs with Africa an..". Text of tweet: "If you’d like to listen to the replay of our chat about accessible documentation, start at minute 6. We cover actionable first steps for better readability +usability. Special thanks to @gentlegiantdev @moogalite @toddlibby for joining in on the convo".](https://cdn.hashnode.com/res/hashnode/image/upload/v1660685363217/p1DL9OmEx.png)
+{{< tweet 1559619705870159874 >}}
 
-If you'd like to listen to the talk [you can listen here](https://twitter.com/i/spaces/1eaKbNWDPjaKX?s=20). Note that twitter spaces only work on mobile for the time being.
+Note that twitter spaces only work on mobile for the time being.
 
 # Considerations for Accessible Technical Documentation
 
