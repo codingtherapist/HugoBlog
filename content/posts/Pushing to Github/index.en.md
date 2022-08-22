@@ -19,6 +19,9 @@ hiddenFromHomePage: false
 toc:
   enable: false
 ---
+
+{{< youtube 7JjVz_1t34Q >}}
+
 I have a confession. Though I am getting better, I sometimes find navigating my terminal pretty tricky. I had not used it before this year with any frequency and largely ignored the fact that it existed. 
 
 Recently, I decided to challenge myself and use the terminal to practice using GitHub. I'd been using GitHub desktop for my coding projects which made it pretty easy to push code to the remote repository with a few clicks. My transition to the terminal only was kind of a mess filled with error messages I'd eventually figure out. Lucky for me, I learned that pushing code directly from VSCode to GitHub is relatively pain free.
@@ -28,7 +31,7 @@ During a virtual meeting with a developer who was helping me with a project, the
 ![internet-wow.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1655934231372/JUfLxPv_W.gif )<br><br>
 If you've never tried this before and use VScode, I encourage you to try it yourself with the below steps! <br><br><br><br>
 
-{{< youtube 7JjVz_1t34Q >}}<br><br><br><br>
+<br><br><br><br>
 
 
 ### 1 . Open up VS Code<br><br>
