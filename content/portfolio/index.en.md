@@ -17,6 +17,14 @@ Please note that many of these web pages are still in progress and in different 
 	<br><br>
 
 # My Projects
+## My Stretch Break<br><br>
+![landing page with title 'Take a 5 Minute Stretch Break' and area to click for 'eye' 'neck' 'hands' and 'shoulders' as well as photo depicting eye stretch](/images/mystretchbreak.png)
+
+<br>
+A fullstack web application for tech workers. This 5 minute stretch break application for computer users featurs a countdown clock, and yoga stretches for different body parts. This site was built with <b>HMTL, CSS, vanilla Javascript, Nodejs, Express</b> and hosted on DigitalOcean. <br>
+Note: This site is still under construction and may display errors <br><br>
+<a class="btn" href="https://mystretchbreak-liiuw.ondigitalocean.app/">View Site » </a><br>
+<a class="btn" href="https://github.com/codingtherapist/5minutestretch">GitHub Repo »</a><br><br><br>
 
 ## Tarot Card Flip App<br><br>
 ![photo with drawing of hand with tarot cards in it](/images/tarotappp.png)<br><br>
@@ -27,14 +35,6 @@ Please note that many of these web pages are still in progress and in different 
 <a href="https://github.com/codingtherapist/serverSideTarotFlip">GitHub repo »</a><br>
 <br><br><br>
 
-## My Stretch Break<br><br>
-![landing page with title 'Take a 5 Minute Stretch Break' and area to click for 'eye' 'neck' 'hands' and 'shoulders' as well as photo depicting eye stretch](/images/mystretch.png)
-
-<br>
-A 5 minute stretch break web application for computer users featuring a countdown clock, yoga stretches for different body parts and a growing plant object. This site was built with <b>HMTL, CSS, and vanilla Javascript</b> and hosted on Netlify. <br>
-Note: This site is still under construction and may display errors <br><br>
-<a class="btn" href="https://mystretchbreak.netlify.app/">View Site » </a><br>
-<a class="btn" href="https://github.com/codingtherapist/5minutestretch">GitHub Repo »</a><br><br><br>
 									
 ## Message from the Universe NASA API<br> <br>
 ![nasa API landing page with pictuer of galaxy](/images/nasaapi.png)
