@@ -12,7 +12,7 @@ resources:
   src: "featured-image.png"
 
 tags: ["yoga", "repetitive stress injury", "stretch break for hands", "wrist pain", "healthtech"]
-categories: ["yoga for devs", "occupational therapy"]
+categories: ["yoga for developers", "occupational therapy"]
 
 hiddenFromHomePage: false
 
