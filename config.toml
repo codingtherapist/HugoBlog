@@ -28,7 +28,7 @@ googleAnalytics = "326369889"
 copyright = ""
 
 # whether to use robots.txt
-enableRobotsTXT = false
+enableRobotsTXT = true
 
 # whether to use git commit log
 enableGitInfo = true
