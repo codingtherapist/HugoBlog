@@ -11,8 +11,8 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["tech", "coffee chats"]
-categories: ["tech"]
+tags: ["web developers", "coffee chats"]
+categories: ["learning to code"]
 
 hiddenFromHomePage: false
 

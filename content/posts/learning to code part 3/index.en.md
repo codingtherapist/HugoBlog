@@ -11,8 +11,8 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["learning how to code", "100 days of code", "100daysofcode", "code newbie"]
-categories: ["tech journey"]
+tags: ["tech journey", "100 days of code", "100daysofcode", "code newbie"]
+categories: ["learning to code"]
 
 hiddenFromHomePage: false
 
@@ -24,9 +24,9 @@ toc:
 <b>A Full Stack Web Development Journey Documented Through the 100daysofcode Challenge</b><br>
 
 Welcome to part 3 of my journey through learning full stack web development!<br><br>
-<b>Part 1</b> of this series which details my first 2 months of learning how to code can be found [here](https://www.africakenyah.com/learning-to-code-part-1/)
+<b>Part 1</b> of this series which details my first 2 months of learning how to code can be found [in this article](https://www.africakenyah.com/learning-to-code-part-1/)
 
-<b>Part 2</b> of this series which details the middle 3-4 months can be found [here](https://codingtherapy.hashnode.dev/my-first-6-months-of-learning-web-development-part-2)
+<b>Part 2</b> of this series which details the middle 3-4 months can be found [in this article](https://codingtherapy.hashnode.dev/my-first-6-months-of-learning-web-development-part-2)
 
 ![Photo of author smile with the caption: Why I Decided to Leave the Therapy Field for a Career in Tech ](https://cdn.hashnode.com/res/hashnode/image/upload/v1660058657459/_ZggJMxvu.png)
 

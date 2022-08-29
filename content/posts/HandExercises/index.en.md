@@ -11,8 +11,8 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["yoga therapy"]
-categories: ["yoga"]
+tags: ["yoga therapy", "wrist pain"]
+categories: ["yoga for developers", "occupational therapy"]
 
 hiddenFromHomePage: false
 

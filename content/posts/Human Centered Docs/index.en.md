@@ -11,8 +11,8 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["web accessibility", "technical documentation"]
-categories: ["tech", "accessibility"]
+tags: ["accessibility", "technical documentation"]
+categories: ["web accessibility"]
 
 hiddenFromHomePage: false
 

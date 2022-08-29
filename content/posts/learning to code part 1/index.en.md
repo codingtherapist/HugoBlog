@@ -11,8 +11,8 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["100daysofcode","web development", "code newbie"]
-categories: ["tech journey"]
+tags: ["100daysofcode","web development", "code newbie", "tech journey"]
+categories: ["learning to code"]
 
 hiddenFromHomePage: false
 

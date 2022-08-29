@@ -12,7 +12,7 @@ resources:
   src: "featured-image.png"
 
 tags: ["tech", "healthcare", "occupational therapy"]
-categories: ["tech"]
+categories: ["learning to code"]
 
 hiddenFromHomePage: false
 

@@ -12,7 +12,7 @@ resources:
   src: "featured-image.png"
 
 tags: ["Welcome"]
-categories: ["Personal"]
+categories: ["learning to code"]
 
 hiddenFromHomePage: false
 weight: 1

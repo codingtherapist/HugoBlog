@@ -12,7 +12,7 @@ resources:
   src: "featured-image.png"
 
 tags: ["github", "vscode", "web development"]
-categories: ["tech"]
+categories: ["learning to code"]
 
 hiddenFromHomePage: false
 

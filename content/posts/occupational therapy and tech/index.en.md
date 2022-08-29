@@ -11,8 +11,8 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["github", "vscode", "web development"]
-categories: ["tech"]
+tags: ["assistive technology", "full stack web development", "web development", "healthcare", "healthtech"]
+categories: ["occupational therapy", "web accessibility"]
 
 hiddenFromHomePage: false
 
