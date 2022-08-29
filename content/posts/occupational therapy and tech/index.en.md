@@ -1,5 +1,5 @@
 ---
-title: "How Occupational Therapists use Assistive Technology and Web Accessibility"
+title: "How Occupational Therapists Work with Assistive Technology and Web Accessibility"
 date: 2022-08-29T11:38:15-04:00
 lastmod: 2022-08-29T11:38:15-04:00
 draft: false
