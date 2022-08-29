@@ -187,7 +187,7 @@ Summary <br>
 * Uploaded 2 yoga for computer users videos on YT
 
 ## June 29 
-<b>Journal Entry<b><br>
+<b>Journal Entry</b><br>
 Today I learned…
 * MongoDB is used to store data put into a form into a cloud, very cool, put in quotes and MongoDB will put it in its database
 * Git terminal commands, placed notes on my wall for creating a local repo, adding a remote repo, and logging local changes to the remote repo 
