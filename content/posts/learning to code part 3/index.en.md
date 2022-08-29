@@ -205,8 +205,7 @@ Today I learned…
 Felt like I spent a lot of time on simple things and troubleshooting to figure out where to place files, but felt good I was able to figure out how to do most of the steps up to the point I stopped today, which is right before making the objects for the quotes.
 
 <b>Notes:</b> Via B during silent study sesh chat-> ” video on installing Heroku CLI. I'd suggest watching it because that was my stumbling block yesterday and Monday.”
-https://www.twitch.tv/videos/1315269230
- 
+
 <b>Random Web app ideas:</b>
 * Making this prettier in a nicer format web app with automated dates and generated areas of concern
 * Tarot card web app: make flip of card happen on the server side instead of a coin flip
