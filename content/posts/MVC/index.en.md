@@ -11,8 +11,8 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["frameworks", "technical documentation"]
-categories: ["tech"]
+tags: ["frameworks", "technical documentation", "mvc"]
+categories: ["learning to code"]
 
 hiddenFromHomePage: false
 
