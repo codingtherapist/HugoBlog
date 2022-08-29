@@ -1,7 +1,7 @@
 ---
 title: "What I Learned in my First 6 Months of Learning How to Code (Part 1)"
-date: 2022-08-08T11:38:15-04:00
-lastmod: 2022-08-13T11:38:15-04:00
+date: 2022-08-06T11:38:15-04:00
+lastmod: 2022-08-06T11:38:15-04:00
 draft: false
 author: "Africa Kenyah"
 authorLink: "https://www.africakenyah.com"
@@ -12,7 +12,7 @@ resources:
   src: "featured-image.png"
 
 tags: ["100daysofcode","web development", "code newbie"]
-categories: ["tech"]
+categories: ["tech journey"]
 
 hiddenFromHomePage: false
 
