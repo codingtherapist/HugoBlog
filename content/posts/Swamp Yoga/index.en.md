@@ -1,5 +1,5 @@
 ---
-title: "20 Minute Chill Yoga Stretch in a Tropical Swamp"
+title: "20 Minute Yoga Stretch Break for the Nech, Shoulders and Hips"
 date: 2022-09-07T11:38:15-04:00
 lastmod: 2022-09-07T11:38:15-04:00
 draft: false
