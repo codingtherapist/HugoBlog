@@ -1,5 +1,5 @@
 ---
-title: "20 Minute Yoga Stretch Break for the Nech, Shoulders and Hips"
+title: "20 Minute Yoga Stretch Break for the Neck, Shoulders and Hips"
 date: 2022-09-07T11:38:15-04:00
 lastmod: 2022-09-07T11:38:15-04:00
 draft: false
