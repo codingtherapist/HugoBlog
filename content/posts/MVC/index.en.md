@@ -1,6 +1,6 @@
 ---
 title: "What is MVC (Model View Controller) Architecture?"
-date: 2022-08-21T11:38:15-04:00
+date: 2022-09-12T11:38:15-04:00
 lastmod: 2022-08-21T11:38:15-04:00
 draft: false
 author: "Africa Kenyah"
