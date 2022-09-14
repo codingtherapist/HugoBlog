@@ -1,6 +1,6 @@
 ---
 title: "Human- Centered Documentation for Web Developers"
-date: 2022-08-16T11:38:15-04:00
+date: 2022-09-13T11:38:15-04:00
 lastmod: 2022-08-16T11:38:15-04:00
 draft: false
 author: "Africa Kenyah"
