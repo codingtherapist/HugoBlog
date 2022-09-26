@@ -71,7 +71,7 @@ enableEmoji = true
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
-    weight = 3
+    weight = 4
   [[menu.main]]
      identifier = "portfolio"
     pre = ""
@@ -79,7 +79,7 @@ enableEmoji = true
     name = "Portfolio"
     url = "/portfolio"
     title = ""
-    weight = 4
+    weight = 3
   [[menu.main]]
     identifier = "categories"
     pre = ""
@@ -118,7 +118,7 @@ enableEmoji = true
           gravatarEmail = ""
           avatarURL = "/images/profilePic.jpeg"
           title = "Hi, I'm Africa!" 
-          subtitle = "Software engineer, accessibility specialist, yoga teacher and former therapist"
+          subtitle = "Software engineer, accessibility specialist, yoga teacher"
           typeit = true
           social = true
           disclaimer = ""

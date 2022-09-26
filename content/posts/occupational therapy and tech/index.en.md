@@ -14,7 +14,7 @@ resources:
 tags: ["assistive technology", "full stack web development", "web development", "healthcare", "healthtech"]
 categories: ["occupational therapy", "web accessibility"]
 
-hiddenFromHomePage: false
+hiddenFromHomePage: true
 
 toc:
   enable: false
