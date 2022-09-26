@@ -6,10 +6,10 @@ draft: false
 author: "Africa Kenyah"
 authorLink: "https://www.africakenyah.com"
 description: "A Framework for Fullstack Web Developers"
-images: ["featured-image.png"]
+images: ["feature-image.png"]
 resources:
-- name: "featured-image"
-  src: "featured-image.png"
+- name: "feature-image"
+  src: "feature-image.png"
 
 tags: ["frameworks", "technical documentation", "mvc"]
 categories: ["learning to code"]
