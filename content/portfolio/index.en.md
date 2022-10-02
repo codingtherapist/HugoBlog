@@ -21,10 +21,10 @@ Please note that many of these web pages are still in progress and in different 
 ![landing page with title 'Take a 5 Minute Stretch Break' and area to click for 'eye' 'neck' 'hands' and 'shoulders' as well as photo depicting eye stretch](/images/mystretchbreak.png)
 
 <br>
-A fullstack web application for tech workers. This 5 minute stretch break application for computer users featurs a countdown clock, and yoga stretches for different body parts. This site was built with <b>HMTL, CSS, vanilla Javascript, Nodejs, Express</b> and hosted on DigitalOcean. <br>
+A fullstack web application for tech workers. This 5 minute stretch break application for computer users featurs a countdown clock, and yoga stretches for different body parts. This site was built with <b>HMTL, CSS, vanilla Javascript, Nodejs, Express</b>, MongoDB and hosted on DigitalOcean. <br>
 Note: This site is still under construction and may display errors <br><br>
 <a class="btn" href="https://mystretchbreak-liiuw.ondigitalocean.app/">View Site » </a><br>
-<a class="btn" href="https://github.com/codingtherapist/5minutestretch">GitHub Repo »</a><br><br><br> 
+<a class="btn" href="https://github.com/codingtherapist/myStretchApp">GitHub Repo »</a><br><br><br> 
 
 ## Tarot Card Flip App<br><br>
 ![photo with drawing of hand with tarot cards in it](/images/tarotappp.png)<br><br>
@@ -35,12 +35,21 @@ Note: This site is still under construction and may display errors <br><br>
 <a href="https://github.com/codingtherapist/serverSideTarotFlip">GitHub repo »</a><br>
 <br><br><br>
 
+## A Southern Chick Catering Business Page<br> <br>
+![nasa API landing page with pictuer of galaxy](/images/nasaapi.png)
+
+
+A fullstack image generator using NASA's API's to display a picture from one of thier powerful microscopes and rovers. This site was built using<b> HTML, CSS, Javascript and NodeJS</b>. This site is still under construction with new backend features and accessibility considerations being added.
+<br><br>ﬁp/">Live Site >> </a><br>
+<a class="btn" href="https://github.com/codingtherapist/nasaapi/issues">                                                                                            GitHub Repo  >> </a>
+
+<br><br>
 									
 ## Message from the Universe NASA API<br> <br>
 ![nasa API landing page with pictuer of galaxy](/images/nasaapi.png)
 
 
-A fullstack image generator using NASA's API's to display a picture from one of thier powerful microscopes and rovers. This site was built using<b> HTML, CSS, Javascript and NodeJS</b>. This site is still under construction with new backend features being added.
+A fullstack image generator using NASA's API's to display a picture from one of thier powerful microscopes and rovers. This site was built using<b> HTML, CSS, Javascript and NodeJS</b>. This site is still under construction with new backend features and accessibility considerations being added.
 <br><br>
 <a class="btn" href="https://messagefromtheuniverse.netlify.app/">Live Site >> </a><br>
 <a class="btn" href="https://github.com/codingtherapist/nasaapi/issues">                                                                                            GitHub Repo  >> </a>
