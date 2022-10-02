@@ -36,15 +36,6 @@ Note: This site is still under construction and may display errors <br><br>
 <a href="https://github.com/codingtherapist/serverSideTarotFlip">GitHub repo »</a><br>
 <br><br><br>
 
-## A Southern Chick Catering Business Page<br> <br>
-![nasa API landing page with pictuer of galaxy](/images/nasaapi.png)
-
-
-A fullstack image generator using NASA's API's to display a picture from one of thier powerful microscopes and rovers. This site was built using<b> HTML, CSS, Javascript and NodeJS</b>. This site is still under construction with new backend features and accessibility considerations being added.
-<br><br>ﬁp/">Live Site >> </a><br>
-<a class="btn" href="https://github.com/codingtherapist/nasaapi/issues">                                                                                            GitHub Repo  >> </a>
-
-<br><br>
 									
 ## Message from the Universe NASA API<br> <br>
 ![nasa API landing page with pictuer of galaxy](/images/nasaapi.png)
@@ -66,8 +57,6 @@ A static blog page featuring posts, contact information, portfolio, and about me
 
 <a class="btn" href="https://www.africakenyah.com">View Site » </a><br>
 <a class="btn" href="https://github.com/codingtherapist/HugoBlog">GitHub Repo »</a><br><br><br>
-									
-
 
 ## Assistive Technology Business Page<br><br>
 ![landing page with title where therapy meets technology](/images/holisticaim.png)
@@ -76,6 +65,18 @@ A static blog page featuring posts, contact information, portfolio, and about me
 An assistive technology business web page built with <b>Wordpress</b> using the Elementor theme. <br><br>
 										<a href="https://www.holisticaimtherapy.com/">View Site »</a><br>
 									<br><br>
+
+
+## A Southern Chick Catering Business Page<br> <br>
+![screenshot of home page of asouthernchick.com](/images/southern.png)
+
+
+A freelance website designed and built with Wix website building plaform for a small business.
+<br>
+<a class="btn" href="www.asouthernchick.com">View Site</a>                                                                                         
+
+<br><br>
+
 
 
 
