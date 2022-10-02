@@ -19,6 +19,7 @@ Please note that many of these web pages are still in progress and in different 
 # My Projects
 ## My Stretch Break<br><br>
 ![landing page with title 'Take a 5 Minute Stretch Break' and area to click for 'eye' 'neck' 'hands' and 'shoulders' as well as photo depicting eye stretch](/images/mystretchbreak.png)
+ ![screenshot of my stretch break app](https://user-images.githubusercontent.com/96845068/193476091-a9e68a0f-52ae-42dd-a61c-8c35fb0be827.gif)
 
 <br>
 A fullstack web application for tech workers. This 5 minute stretch break application for computer users featurs a countdown clock, and yoga stretches for different body parts. This site was built with <b>HMTL, CSS, vanilla Javascript, Nodejs, Express</b>, MongoDB and hosted on DigitalOcean. <br>
