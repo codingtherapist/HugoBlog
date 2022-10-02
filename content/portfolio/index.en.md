@@ -9,7 +9,7 @@ math:
   enable: true
 ---
 
-![Hugo Theme LoveIt](/images/sideprofile.png)
+![Hugo Theme LoveIt](/images/floaty.gif)
 
 I build mindful web applications using <b>HTML, CSS, Javascript and NodeJS</b>.<br>
 Below you will find a link to the live site of my projects, as well as the github repository. <br><br>

@@ -9,7 +9,7 @@ math:
   enable: true
 ---
 
-![Hugo Theme LoveIt](/images/headshott.jpg)
+![Hugo Theme LoveIt](/images/headshottt.png)
 
 
 ## Hi, I'm Africa!
