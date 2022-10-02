@@ -22,10 +22,10 @@ I enjoy:
 * working with technology to increase accessibility for neuro-typical individuals + those with cognitive, physical, +/ emotional needs <br><br>
 
 
-🌱 I’m learning:
-* how to build responsive full stack web applications using Javascript
-* how to build RESTful API's using the MERN stack
-* the Web Content Accessibility Guidelines (WCAG) 2.1 - W3C<br><br>
+🌱 My skills:
+* Building responsive full stack web applications using Javascript and Nodejs
+* Build RESTful API's using the MERN stack
+* Robust knowledge of Web Content Accessibility Guidelines (WCAG) 2.1 - W3C<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingtherapist&layout=compact"/><br><br>
 
 ⚡ Fun fact: One of the reasons I transitioned from the therapy field to technology is because I became more interested in problem-solving how to make the virtual therapy tools I was using better and more accessible (streamlining documentation tools, building therapeutic gaming rooms, etc).<br><br>
