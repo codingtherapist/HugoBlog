@@ -74,7 +74,7 @@ An assistive technology business web page built with <b>Wordpress</b> using the 
 
 A freelance website designed and built with Wix website building plaform for a small business.
 <br>
-<a class="btn" href="www.asouthernchick.com">View Site</a>                                                                                         
+<a class="btn" href="https://www.asouthernchick.com">View Site</a>                                                                                         
 
 <br><br>
 
