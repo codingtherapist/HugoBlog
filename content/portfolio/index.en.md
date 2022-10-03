@@ -12,6 +12,7 @@ math:
 ![Hugo Theme LoveIt](/images/floaty.gif)
 
 I build mindful web applications using <b>HTML, CSS, Javascript and NodeJS</b>.<br>
+I also build and design responsive web pages, and provide SEO and web accessibility consults for small businesses interested in expanding their digital footprint. <br>
 Below you will find a link to the live site of my projects, as well as the github repository. <br><br>
 Please note that many of these web pages are still in progress and in different stages of development. All pages are currently recieving a web accessibility audit and being updated to be <b>WCAG (Web Content Accessibility Guidelines) 2.1 </b>compliant. </p>
 	<br><br>
@@ -22,7 +23,7 @@ Please note that many of these web pages are still in progress and in different 
  ![screenshot of my stretch break app](https://user-images.githubusercontent.com/96845068/193476091-a9e68a0f-52ae-42dd-a61c-8c35fb0be827.gif)
 
 <br>
-A fullstack web application for tech workers. This 5 minute stretch break application for computer users featurs a countdown clock, and yoga stretches for different body parts. This site was built with <b>HMTL, CSS, vanilla Javascript, Nodejs, Express</b>, MongoDB and hosted on DigitalOcean. <br>
+A fullstack web application for computer users. This 5 minute stretch break application features a countdown clock, and yoga stretches for different body parts. This site was built with <b>HMTL, CSS, vanilla Javascript, Nodejs, Express, MongoDB and hosted on DigitalOcean</b>. <br>
 Note: This site is still under construction and may display errors <br><br>
 <a class="btn" href="https://mystretchbreak-liiuw.ondigitalocean.app/">View Site » </a><br>
 <a class="btn" href="https://github.com/codingtherapist/myStretchApp">GitHub Repo »</a><br><br><br> 
@@ -41,7 +42,7 @@ Note: This site is still under construction and may display errors <br><br>
 ![nasa API landing page with pictuer of galaxy](/images/nasaapi.png)
 
 
-A fullstack image generator using NASA's API's to display a picture from one of thier powerful microscopes and rovers. This site was built using<b> HTML, CSS, Javascript and NodeJS</b>. This site is still under construction with new backend features and accessibility considerations being added.
+A fullstack image generator using NASA's API's to display a picture from one of thier powerful microscopes and rovers. This site was built using<b> HTML, CSS, Javascript and NodeJS</b>. This site is still under construction to increase color contrast standards and add new backend and accessibility features.
 <br><br>
 <a class="btn" href="https://messagefromtheuniverse.netlify.app/">Live Site >> </a><br>
 <a class="btn" href="https://github.com/codingtherapist/nasaapi/issues">                                                                                            GitHub Repo  >> </a>
@@ -53,7 +54,7 @@ A fullstack image generator using NASA's API's to display a picture from one of 
 ![landing page of hugo blog](/images/bloghome.png)
 
 <br>
-A static blog page featuring posts, contact information, portfolio, and about me section. This site was built with <b>Hugo</b> using the loveit theme and hosted on Netlify. <br>
+A static blog page featuring posts, contact information, portfolio, and about me section. This site was built with <b>Hugo</b> using the loveit theme and hosted on <b>Netlify</b>. <br>
 
 <a class="btn" href="https://www.africakenyah.com">View Site » </a><br>
 <a class="btn" href="https://github.com/codingtherapist/HugoBlog">GitHub Repo »</a><br><br><br>
