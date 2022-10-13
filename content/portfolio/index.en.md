@@ -18,14 +18,14 @@ Please note that many of these web pages are still in progress and in different 
 	<br><br>
 
 # My Projects
-## My Stretch Break<br><br>
+## Your Stretch Break<br><br>
 ![landing page with title 'Take a 5 Minute Stretch Break' and area to click for 'eye' 'neck' 'hands' and 'shoulders' as well as photo depicting eye stretch](/images/mystretchbreak.png)
  ![screenshot of my stretch break app](https://user-images.githubusercontent.com/96845068/193476091-a9e68a0f-52ae-42dd-a61c-8c35fb0be827.gif)
 
 <br>
 A fullstack web application for computer users. This 5 minute stretch break application features a countdown clock, and yoga stretches for different body parts. This site was built with <b>HMTL, CSS, vanilla Javascript, Nodejs, Express, MongoDB and hosted on DigitalOcean</b>. <br>
 Note: This site is still under construction and may display errors <br><br>
-<a class="btn" href="https://mystretchbreak-liiuw.ondigitalocean.app/">View Site » </a><br>
+<a class="btn" href="https://www.yourstretchbreak.com/">View Site » </a><br>
 <a class="btn" href="https://github.com/codingtherapist/myStretchApp">GitHub Repo »</a><br><br><br> 
 
 ## Tarot Card Flip App<br><br>
