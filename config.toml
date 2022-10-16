@@ -81,6 +81,14 @@ enableEmoji = true
     title = ""
     weight = 3
   [[menu.main]]
+     identifier = "services"
+    pre = ""
+    post = ""
+    name = "My Services"
+    url = "/services"
+    title = ""
+    weight = 3
+  [[menu.main]]
     identifier = "categories"
     pre = ""
     post = ""
