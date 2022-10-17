@@ -23,11 +23,11 @@ toc:
 # 20 Coffee Chats 
 A few months ago, I was (and continue to be) knee-deep in learning the MERN stack. I was very focused on building projects using full-stack web development tools. One of my goals as I gained and shared knowledge by building in public, was to connect with individuals from marginalized communities. These included people we don't usually see very prominently at tech companies: <b>people of color, women, non-binary individuals, and those who identify as LGBTQA+</b>. <br>
 
-![liam nelson on the phone, caption "I don't know who you are but we can have a coffee and chat"](https://cdn.hashnode.com/res/hashnode/image/upload/v1651103794280/-MX6vZdXT.jpeg align="center")
-
+![liam nelson on the phone, caption "I don't know who you are but we can have a coffee and chat"](https://cdn.hashnode.com/res/hashnode/image/upload/v1651103794280/-MX6vZdXT.jpeg)
+<br>
 In my quest to reach this population, I did what I usually do when I want to share or ask questions to a large community of techies: I tweeted about it! <br><br>
 
-![screen shot of tweet by @africakenyah "I’m just gonna put it out there bc sometimes the universe provides. If you are a woman, POC or LGBTQA+ in tech working as a software engineer and you have the time and space to have a coffee chat with me +/ others, please interact w this tweet or reach out. Id love to speak w/ u."](https://cdn.hashnode.com/res/hashnode/image/upload/v1664902305195/2uAeqLKqV.png align="left")
+![screen shot of tweet by @africakenyah "I’m just gonna put it out there bc sometimes the universe provides. If you are a woman, POC or LGBTQA+ in tech working as a software engineer and you have the time and space to have a coffee chat with me +/ others, please interact w this tweet or reach out. Id love to speak w/ u."](https://cdn.hashnode.com/res/hashnode/image/upload/v1664902305195/2uAeqLKqV.png)
 [You can read the tweet and thread on twitter here](https://twitter.com/codingTherapist/status/1530177849210150913)<br><br>
 
 I was extremely surprised by the response. Many women, POC, nonbinary, and LGBTQA+ developers reached out offering to speak with me. Of those who reached out, around 25 scheduled a time to meet and 20 made it to the meeting. Below is the advice of these generous Software Engineers of varying backgrounds and experience. I also added some data about the industries they work in, their levels of experience, and the languages they use on the job.
@@ -46,8 +46,8 @@ My goals for meeting with these diverse individuals in the tech field were to:
 Meeting times ranged from 30 minutes to 2 hours. The average time I spent with each person was 1 hour. Most scheduled 30-minute blocks but we ended up talking longer unless they had an appointment after. I was delightfully surprised at how enthusiastic, helpful, and encouraging everyone I spoke to was.
 
 
-![woman in gif with caption "give me a pillow, give me some snacks, because I'm not going anywhere"](https://cdn.hashnode.com/res/hashnode/image/upload/v1664908434710/4QYbIYLu3.gif align="center")
-
+![woman in gif with caption "give me a pillow, give me some snacks, because I'm not going anywhere"](https://cdn.hashnode.com/res/hashnode/image/upload/v1664908434710/4QYbIYLu3.gif)
+<br>
 
 ## 8 Questions for 20 Developers
 Note: The numbers in the data collected may not add up to 20, because not all developers were asked the same questions
@@ -126,7 +126,7 @@ Note: The numbers in the data collected may not add up to 20, because not all de
 <br><br>
 
 ![12 icons with programming languages logos including perl, jacva, SQL , python, rubt, javascript, htm, asp, C](https://cdn.hashnode.com/res/hashnode/image/upload/v1651103593259/EZFsCA9F3.jpeg)
-
+<br>
 The takeaway here was that many of the SWEs began learning one language (most of them learned JavaScript). Over half of the interviewed developers got their first job working with a language they hadn't learned yet. They stressed focusing on learning to write good pseudo-code, which will allow you to easily learn other languages.
 
 <b>Advice</b>: Do not become married to one language when learning. Know the fundamentals which will transfer into another language. You may get a job opportunity that requires you to learn and use more than one language.
@@ -145,13 +145,13 @@ The takeaway here was that many of the SWEs began learning one language (most of
 
 <b>Advice</b>: After doing your research, just dive headfirst into the world of coding. Don't feel bad if money is your only motivator to learn, just know it takes a lot of work and commitment. Don't tell yourself you're going to start next month or next year. Start learning a little when you can, even if it is only 30 minutes on the weekday after work. Stick to one language until you learn it well before moving on to anything else. Commit to one path of learning, whether Coursera, Udemy, or a boot camp, and finish it (unless you'd like to get stuck in tutorial hell).
 
-![SpongeBob crab with quote "after all money is the ultimate source of joy"](https://cdn.hashnode.com/res/hashnode/image/upload/v1664914429121/PcX0DPaKW.gif align="center")
+![SpongeBob crab with quote "after all money is the ultimate source of joy"](https://cdn.hashnode.com/res/hashnode/image/upload/v1664914429121/PcX0DPaKW.gif)
 
 ### 4. What was your experience during boot camp, or learning to code on your own?
 Everyone found it pretty difficult due to the intensity of learning so much information in a compact amount of time. Many thought they wouldn't be able to make it through (but they did!). A lot cried (relatable). Two taught themselves with the help of google and mentors, finding the learning journey challenging in a fun way.
 
-![man closing eyes holding hands to heads with a cigarette in mouth and caption "me when its time to learn anything new that I'm not instantly good at"](https://cdn.hashnode.com/res/hashnode/image/upload/v1651104557183/EwFmYUeVB.jpeg align="center")
-
+![man closing eyes holding hands to heads with a cigarette in mouth and caption "me when its time to learn anything new that I'm not instantly good at"](https://cdn.hashnode.com/res/hashnode/image/upload/v1651104557183/EwFmYUeVB.jpeg)
+<br>
 
 <b>Advice</b>: Create a detailed schedule on your learning path with a timeline and scheduled study time daily. Document your progress in a journal/ blog/ social media account. Build a community to hold you accountable while learning, with people on the same path. Join discord servers, Twitter communities, and find your people.
 
@@ -160,7 +160,7 @@ Everyone found it pretty difficult due to the intensity of learning so much info
 - Within 3 months (5)
 - Within 6 months (4)
 - Within 1 year (2)<br><br>
-![shibu dog with curled tongue with caption "interviewer "show me your skills" me:"](https://cdn.hashnode.com/res/hashnode/image/upload/v1651104231409/bznaECqGF.jpeg align="center")<br><br>
+![shibu dog with curled tongue with caption "interviewer "show me your skills" me:"](https://cdn.hashnode.com/res/hashnode/image/upload/v1651104231409/bznaECqGF.jpeg)<br><br>
 
 <b>Advice</b>: Build a project based on your passions that you can talk about during job interviews. Network, network, network. Be someone people want to work with (soft skills are better than technical skills for a lot of people doing the interviewing). Those who networked got their jobs the fastest.
 
@@ -171,7 +171,7 @@ Everyone found it pretty difficult due to the intensity of learning so much info
 - "Tech is future-facing, you're always learning something new." -Karen, Software Engineer
 - "Helping devs with projects or talking about what could be better." -Fred, Developer Relations
 
-![Megan thee stallion smiling looking down with captain "I love it here"](https://cdn.hashnode.com/res/hashnode/image/upload/v1651589639826/E3q7Pdjyb.gif align="center")
+![Megan thee stallion smiling looking down with captain "I love it here"](https://cdn.hashnode.com/res/hashnode/image/upload/v1651589639826/E3q7Pdjyb.gif)<br>
 
 <b>Advice</b>: While you may or may not have the privilege of many choices as a newbie, take into consideration what you desire from a job. Gear your search towards those attributes when applying to positions.
 
@@ -179,7 +179,7 @@ When interviewing, use that time to also interview the company. A few of the dev
 
 <b>Be mindful of red flags like:</b>
 
-![woman waving red flag](https://cdn.hashnode.com/res/hashnode/image/upload/v1664919179180/-PfzSFwrU.gif align="center")
+![woman waving red flag](https://cdn.hashnode.com/res/hashnode/image/upload/v1664919179180/-PfzSFwrU.gif)<br>
 - Job postings that state they're looking for someone ambitious, hardworking, and that can tackle more than 5+ areas with 6 different languages that require a whole team IRL
 - 4+ rounds of technical interviews unless you're committed to the FAANG life
 - Over glorification of "hustle culture" and high expectations of regularly going "above and beyond" aka you'll be working after hours and burn out quickly
@@ -198,7 +198,7 @@ When interviewing, use that time to also interview the company. A few of the dev
 - Need for developers with a high amount of soft skills (leadership, empathy, teamwork, etc)
 - Web 3 (this was the most controversial topic when brought up, with most devs reporting not being interested in the development of this area)
 
-![man in hat moon walking backward with caption "innovation"](https://cdn.hashnode.com/res/hashnode/image/upload/v1664914530026/UPnzki0xK.gif align="center")
+![man in hat moon walking backward with caption "innovation"](https://cdn.hashnode.com/res/hashnode/image/upload/v1664914530026/UPnzki0xK.gif)
 
 ### 8. What is the best advice you'd give a newbie coder?
 
@@ -235,7 +235,7 @@ When interviewing, use that time to also interview the company. A few of the dev
 
 - "Just start and do it regularly. Don't worry about how long it takes." - Hannah, Software Engineer
 
-![woman nodding and pointing to camera with caption "you got this"](https://cdn.hashnode.com/res/hashnode/image/upload/v1664914636249/lkVv6Hpir.gif align="center")
+![woman nodding and pointing to camera with caption "you got this"](https://cdn.hashnode.com/res/hashnode/image/upload/v1664914636249/lkVv6Hpir.gif)<br>
 Special thanks to everyone who agreed to meet with me and allowed me to share their insights with others who may benefit from it. Please check them out on Twitter!
 
 Interested in speaking with newbies about your experience? Got any advice you'd like to share for newbie coders? Leave them in the comments to save a life!
