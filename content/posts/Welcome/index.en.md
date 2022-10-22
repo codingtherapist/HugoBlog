@@ -10,7 +10,6 @@ images: ["featured-image.png"]
 resources:
 - name: "featured-image"
   src: "featured-image.png"
-  alt: "the coding therapist, background of computer laptop setup"
 
 tags: ["Welcome"]
 categories: ["learning to code"]

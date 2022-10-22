@@ -39,10 +39,10 @@ Note: This site is still under construction and may display errors <br><br>
 
 									
 ## Message from the Universe NASA API<br> <br>
-![nasa API landing page with pictuer of galaxy](/images/nasaapi.png)
+![nasa API landing page](/images/nasa.gif)
 
 
-A fullstack image generator using NASA's API's to display a picture from one of thier powerful microscopes and rovers. This site was built using<b> HTML, CSS, Javascript and NodeJS</b>. This site is still under construction to increase color contrast standards and add new backend and accessibility features.
+Animage generator using NASA's API's to display a picture from one of thier powerful microscopes and rovers. This site was built using<b> HTML, CSS, Jand avascript</b>. This site is still under construction to increase color contrast standards and add new backend and accessibility features.
 <br><br>
 <a class="btn" href="https://messagefromtheuniverse.netlify.app/">Live Site >> </a><br>
 <a class="btn" href="https://github.com/codingtherapist/nasaapi/issues">                                                                                            GitHub Repo  >> </a>
