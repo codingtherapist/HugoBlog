@@ -39,7 +39,7 @@ Note: This site is still under construction and may display errors <br><br>
 
 									
 ## Message from the Universe NASA API<br> <br>
-![nasa API landing page](/images/nasa.png)
+![nasa API landing page](/images/nasa.png)<br>
 ![nasa API landing page](/images/nasa.gif)
 
 
