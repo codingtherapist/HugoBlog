@@ -125,6 +125,7 @@ enableEmoji = true
           enable = true
           gravatarEmail = ""
           avatarURL = "/images/logoavatar.png"
+            alt = "logo of cartoon version of author with hands over head infront of laptop"
           title = "Hi, I'm Africa!" 
           subtitle = "Software engineer, accessibility specialist, yoga teacher"
           typeit = true
@@ -134,16 +135,10 @@ enableEmoji = true
       [languages.en.params.social]
         GitHub = "codingTherapist"
         Linkedin = "africamincey"
-       # Instagram = "xxxx"
-       # Facebook = "xxxx"
-       # Telegram = "xxxx"
         Youtubechannel = "UCiaMi-uLijoOEPT0lfaQCvw"
-         #Twitter = ""
         Email = "africakenyah@gmail.com"
        # RSS = false
        # [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
 
 [frontmatter]
   date = ['date', 'publishDate', 'lastmod']
@@ -271,9 +266,9 @@ enableEmoji = true
       # URL of avatar shown in home page
       avatarURL = "/images/profilePic.jpeg"
       # title shown in home page (HTML format is supported)
-      title = ""
+      title = "A blog about the intersection of technology and therapy"
       # subtitle shown in home page
-      subtitle = "A blog about the intersection of technology and therapy"
+      subtitle = ""
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true

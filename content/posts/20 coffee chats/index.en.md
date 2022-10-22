@@ -10,6 +10,7 @@ images: ["featured-image.png"]
 resources:
 - name: "featured-image"
   src: "featured-image.png"
+  alt: "group of diverse individuals gathered around coffee"
 
 tags: ["coffee chats", "web development", "software engineering"]
 categories: ["learning to code"]
