@@ -161,6 +161,9 @@ enableEmoji = true
   description = "The Coding Therapist shares her full stack web development journey by learning in public"
   # website images for Open Graph and Twitter Cards
   images = ["featured-image.png"]
+  # twitter cards
+  twitter_cards = true
+
 
   # Header config
   [params.header]
@@ -290,7 +293,7 @@ enableEmoji = true
   [params.social]
     GitHub = ""
     Linkedin = "http://www.linkedin.com/in/africamincey"
-    Twitter = ""
+    Twitter = "https://www.twiter.com/africakenyah"
     Instagram = ""
     Facebook = ""
     Telegram = ""
