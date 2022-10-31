@@ -7,6 +7,7 @@ author: "Africa Kenyah"
 authorLink: "https://www.africakenyah.com"
 description: ""
 twitter: card
+twitter: https://res.cloudinary.com/dtamwfybo/image/upload/v1667217069/featured-image_18_fpfssr.png
 images: ["featured-image.png"]
 resources:
 - name: "featured-image"
