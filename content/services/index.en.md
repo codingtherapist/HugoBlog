@@ -1,8 +1,8 @@
 ---
 title: "My Services"
 date: 2022-10-16T11:04:49+08:00
-draft: false
-
+draft: true
+hiddenFromHomePage: true
 lightgallery: true
 
 math:

@@ -80,14 +80,14 @@ enableEmoji = true
     url = "/portfolio"
     title = ""
     weight = 3
-  [[menu.main]]
-     identifier = "services"
-    pre = ""
-    post = ""
-    name = "Services"
-    url = "/services"
-    title = ""
-    weight = 3
+  #[[menu.main]]
+   #  identifier = "services"
+   # pre = ""
+    #post = ""
+    #name = "Services"
+    #url = "/services"
+    #title = ""
+    #weight = 3
   [[menu.main]]
     identifier = "categories"
     pre = ""
