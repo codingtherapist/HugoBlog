@@ -8,8 +8,8 @@ authorLink: "https://www.africakenyah.com"
 description: ""
 twitter: card
 thumbnail: "featured-image.png"
-images: ["featured-image.png"]
-resources:
+images: ["featured-image.png"]  
+resources: 
 - name: "featured-image"
   src: "featured-image.png"
 
@@ -21,6 +21,8 @@ hiddenFromHomePage: false
 toc:
   enable: false
 ---
+{{ template "_internal/twitter_cards.html" . }}
+
 Greetings code baddies and code daddys! 
 
 
