@@ -1,7 +1,7 @@
 ---
 title: "MERN Stack Weekly Coding Check In: Week 1 and 2"
-date: 2022-10-23T11:38:15-04:00
-lastmod: 2022-10-23T11:38:15-04:00
+date: 2022-10-15T11:38:15-04:00
+lastmod: 2022-10-15T11:38:15-04:00
 draft: false
 author: "Africa Kenyah"
 authorLink: "https://www.africakenyah.com"
