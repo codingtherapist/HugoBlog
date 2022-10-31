@@ -6,6 +6,7 @@ draft: false
 author: "Africa Kenyah"
 authorLink: "https://www.africakenyah.com"
 description: ""
+twitter: card
 images: ["featured-image.png"]
 resources:
 - name: "featured-image"
