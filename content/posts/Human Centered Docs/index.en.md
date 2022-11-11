@@ -20,12 +20,6 @@ toc:
   enable: false
 ---
 
-This article was originally created for a Twitter space with fellow web developer [Lucia](https://twitter.com/CerchieLucia). We covered topics including actionable first steps for better readability and usability of technical documentation. This article includes extra information and context not discussed during our chat.
-
-{{< tweet 1559619705870159874 >}}
-
-Note that twitter spaces only work on mobile for the time being.
-
 # Considerations for Accessible Technical Documentation
 
 ![Drawing of women's profile with long black hair with a worried look on face and lightbulb over head](https://cdn.hashnode.com/res/hashnode/image/upload/v1660688669253/fWyDdKNvZ.webp)
