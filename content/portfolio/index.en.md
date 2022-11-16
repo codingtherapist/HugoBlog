@@ -33,8 +33,8 @@ Note: This site is still under construction and may display errors <br><br>
 	A fullstack web application that displays a tarot card on click where the flip function happens server side. This site was built using <b>HTML, CSS, Javascript, NodeJS, Express</b>, and hosted on Heroku. <br>
 	Note: This site is still under construction<br>	<br>	
 	
-<a href="https://tarotflip.herokuapp.com/">View Site »</a><br>
-<a href="https://github.com/codingtherapist/serverSideTarotFlip">GitHub repo »</a><br>
+<a href="https://tarotflip.cyclic.app/">View Site »</a><br>
+<a href="https://github.com/codingtherapist/serverSideTarotFlip/tree/main">GitHub repo »</a><br>
 <br><br><br>
 
 									
