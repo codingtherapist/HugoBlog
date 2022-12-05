@@ -21,7 +21,8 @@ hiddenFromHomePage: false
 toc:
   enable: false
 ---
-{{ template "_internal/twitter_cards.html" . }}
+# MERN Stack Weekly Coding Check In: Week 1 and 2
+
 
 Greetings code baddies and code daddys! 
 
@@ -35,7 +36,7 @@ I was inspired by a few mentors and friends to create a weekly vlog detailing wh
 One of my colleagues from 100Devs started something called #100daysoncamera. This seemed like a pretty low stakes way to begin my journey of being more open and increasing my online presence in a meaningful way. 
 {{< tweet 1577736876185686019 >}}
 
-1578050690789904384
+
 
 Though I won’t be doing daily videos, I *will* be doing weekly check-ins for anyone interested in what I have been learning. Below are the first two weeks. I started out only posting these to Twitter in 1-2 minute wrap-ups and have since changed the format for youtube and will be keeping it within 10-25 minutes each week.
 

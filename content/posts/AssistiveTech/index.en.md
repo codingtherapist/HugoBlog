@@ -24,9 +24,8 @@ aliases:
   - /test1.html
   
 ---
-
+# Why Developer's Should Care About Semantic HTML
 {{< youtube S-npp6P6eMM >}}
-
 
 Today I've been thinking about something I've thought about a lot: Semantic HTML. I know, kind of boring, but hear me out! 
 

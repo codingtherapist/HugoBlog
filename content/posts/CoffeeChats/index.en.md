@@ -19,6 +19,8 @@ hiddenFromHomePage: false
 toc:
   enable: false
 ---
+
+
   
 In my quest to dive deeper into learning about the Software Engineering field, I reached out to some friends I knew who graduated from a full-stack web development boot camp. I also reached out to everyone I knew in the tech field IRL. This included devs on Twitter who were offering their time to chat over the past few months. 
 
