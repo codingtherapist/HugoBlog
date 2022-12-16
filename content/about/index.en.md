@@ -8,10 +8,6 @@ lightgallery: true
 math:
   enable: true
 ---
-
-![Hugo Theme LoveIt](/images/headshottt.png)
-
-
 # Hi, I'm Africa!
  ## I am a web developer, accessibility specialist and former occupational therapist. 
  ![cartoon of author with hands overhead infront of a laptop](/images/floaty.gif)
@@ -29,34 +25,28 @@ math:
 * Robust knowledge of Web Content Accessibility Guidelines (WCAG) 2.1 - W3C<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingtherapist&layout=compact"/><br><br>
 
-## ⚡ Fun fact: 
-One of the reasons I transitioned from the therapy field to technology is because I became more interested in problem-solving how to make the virtual therapy tools I was using better and more accessible (streamlining documentation tools, building therapeutic gaming rooms, etc).<br><br>
-
-## 📽️ I share 
-yoga tips for computer users, as well as talk about my journey merging therapy and technology on my YouTube channel: https://youtube.com/user/africakenyah<br><br>
 
 ## 🔭 I’m currently working on <br>
 
   - A [5-minute stretch break web application](https://africakenyah.com/portfolio) for developers and computer users.   This site is being built with <b>HMTL, CSS, Javascript, nodejs and MongoDB</b>. An API to retrieve yoga poses from a database categorized by body parts will be added using nodejs, express, and mongoDB.
  ![screenshot of my stretch break app](https://user-images.githubusercontent.com/96845068/193476091-a9e68a0f-52ae-42dd-a61c-8c35fb0be827.gif)
 
-  - A [full-stack CRUD web application](https://africakenyah.com/portfolio) for uploading silent mental, emotional or physical health diagnoses and treatment tips anonymously. This site is being built using <b>HTML, CSS, Javascript, NodeJS, Express, MongoDB, and hosted on Netlify</b>.<br><br>
 
-  - The Web Accessibility Pocket Guide. This API will display a database of WCAG 2.1 guidelines for web accessibility. This resource will include WCAG rules searchable by section and topic to be displayed from a backend database.<b> HTML, CSS, Javascript, NodeJS, Express, PostgreSQL and hosted on Heroku</b>.
+  - Contributing to building [Accessible For All](https://github.com/AccessibleForAll). This open source project is a community dedicated to making the web more accessible for everyone, starting with educating designers and developers on accessibility best practices from an early stage.
 
-## 💬 Ask me:
-* for yoga tips for developers
-* about my fascination with assistive technology 
-* about human centered design and universal design
-* about ergonomics (standing desks and specialized keyboards/ mice have saved my life!)<br><br>
+## 💬 Ask me about:
+* stretch break tips for tech workers
+* my fascination with assistive technology 
+* human centered design and universal design
+* ergonomics (standing desks and specialized keyboards/ mice have saved my life!)<br><br>
+
+## ⚡ Fun fact: 
+One of the reasons I transitioned from the therapy field to technology is because I became interested in how the web worked with the assisitive technology my students and patients were using. <br><br>
+
+## 📽️ I share 
+yoga tips for computer users, as well as talk about my journey merging therapy and technology on my YouTube channel: https://youtube.com/user/africakenyah<br><br>
 
 ## 📫 How to reach me: 
 [On my personal site](https://www.africamincey.com/)<br><br>
 
-## Bonus:
- Interested in learning beginner-friendly stretches for developers who sit at a computer all day? Check out the first issue of the Biweekly Stretch of the Week Newsletter below and [Subscribe here for more](https://www.getrevue.co/profile/Africakenyah?via=twitter-profile)
 
-
-
-
-![Newsletter01 (545 × 1000 px) (1)](https://user-images.githubusercontent.com/96845068/180640332-4f27515b-8159-41a6-8dc1-7481ab92bb93.png)
