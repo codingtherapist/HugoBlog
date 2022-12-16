@@ -79,39 +79,4 @@ A freelance website designed and built with Wix website building plaform for a s
 
 <br><br>
 
-
-
-
-
-
-## The Biweekly Stretch Break of the Week Newsletter 
-
-Weekly stretch breaks and yoga poses for tech workers and technology users. <br><br>
-![nasa API landing page with pictuer of galaxy](/images/newsletter.png)
-
- [Read the Newsletter >>](https://www.getrevue.co/profile/Africakenyah?via=twitter-profile)
-<br><br>
-
-##	Currently building
-The following projects are not ready for public hosting but will be available soon :)<br><br><br>
-		
-### The	Web Accessibility Pocket Guide<br><br>
-![photo of purple galaxy](/images/wcag.png)<br><br>
-	This API will display a database of WCAG 2.1 guidelines for web accessibility. This resource will include WCAG rules searchable by section and topic to be displayed from a backend database.  <b>HTML, CSS, Javascript, NodeJS, Express, PostgreSQL</b> and hosted on Heroku <br><br>		
-[Coming soon ]()		
-<br><br><br>
-							
-###	Neuro-Divergents Anonymous<br><br>
-![photo of picture of head with balled up paper coming from top of head](/images/neuro.png)<br><br>
-A fullstack CRUD web application for uploading silent mental, emotional or physical health diagnosis and treatmemt tips anonomously. This site was built using <b>HTML, CSS, Javascript, NodeJS, Express, MongoDB </b>and hosted on Netlify. <br><br>		
-[Coming soon ]()		
-<br><br><br>
-
-###	Space Media Fullstack CRUD Web App<br><br>
-![photo of purple galaxy](/images/spacemedia.png)<br><br>
-	A fullstack CRUD web application for finding and sharing your favorite book, movie or TV related to outer space. This site was built using <b>HTML, CSS, Javascript, NodeJS, Express, MongoDB</b> and hosted on Heroku <br><br>		
-[Coming soon ]()		
-<br><br><br>
-
-
 		
