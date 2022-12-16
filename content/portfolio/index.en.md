@@ -29,7 +29,7 @@ Note: This site is still under construction and may display errors <br><br>
 <a class="btn" href="https://github.com/codingtherapist/myStretchApp">GitHub Repo »</a><br><br><br> 
 
 ## Tarot Card Flip App<br><br>
-![photo with drawing of hand with tarot cards in it](/images/tarotappp.png)<br><br>
+![photo with drawing of hand with tarot cards in it](/images/tarotapp.png)<br><br>
 	A fullstack web application that displays a tarot card on click where the flip function happens server side. This site was built using <b>HTML, CSS, Javascript, NodeJS, Express</b>, and hosted on Heroku. <br>
 	Note: This site is still under construction<br>	<br>	
 	
