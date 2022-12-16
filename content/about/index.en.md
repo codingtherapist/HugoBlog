@@ -9,8 +9,10 @@ math:
   enable: true
 ---
 # Hi, I'm Africa!
- ## I am a web developer, accessibility specialist and former occupational therapist. 
  ![cartoon of author with hands overhead infront of a laptop](/images/floaty.gif)
+ 
+ ## I am a web developer, accessibility engineer and former occupational therapist. 
+
 
 ## I enjoy:
 * community building, blogging and content creation
