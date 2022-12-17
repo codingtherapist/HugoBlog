@@ -24,7 +24,7 @@ toc:
 Checking in again to bring you up to speed with what I’ve been up to this week!
 Today I’m talking about:
 - Eloquent javascript chapter 4
-- Dta structures aand algorithms for jr developers
+- Data structures and algorithms for jr developers
 - Switching from codewars and leetcode to work more on projects
 - Getting better at using MongoBD and Nodejs
 - Interviewing for roles
