@@ -1,5 +1,5 @@
 ---
-title: "Intro to Web Accessibility Testing Part 1"
+title: "Intro to Web Accessibility Testing Part 2"
 date: 2022-12-16T11:38:15-04:00
 lastmod: 2022-12-16T11:38:15-04:00
 draft: false
