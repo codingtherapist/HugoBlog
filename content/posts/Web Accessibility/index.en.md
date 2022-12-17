@@ -11,7 +11,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["web developers", "MERN", "javascript"]
+tags: ["web developers", "MERN", "javascript", "a11y", "web accessibility"]
 categories: ["learning to code", "web accessibility"]
 
 hiddenFromHomePage: false
